@@ -1,0 +1,13408 @@
+
+			<h1 itemprop="name">Checked bag policy</h1>
+			
+
+			<!-- Special Notices -->
+			
+					<section class="message-info">
+						<h2 class="header">Checked bag allowances</h2>
+						
+							<p>Changes to bag allowances and fees have been updated as of February 20, 2024.</p>
+						
+							<p>Travel within / between the U.S., Puerto Rico, and U.S. Virgin Islands – 1st checked bag fee is $40 ($35 if you pay online) and the 2nd checked bag fee is $45.</p>
+						
+							<p>Travel to / from Canada, Caribbean, Mexico, Central America, and Guyana – 1st checked bag fee is $35 and the 2nd checked bag fee is $45.</p>
+						
+							<p>All bag fees are non-refundable and apply per person, at each check-in location, each way, even if you purchase or get an upgrade that includes free checked bags. If you believe you've been incorrectly charged for bag fees, contact an American representative for help or file a refund claim within 45 days.</p>
+						
+						
+								<ul>
+									
+										
+										<li>
+											<a href="/i18n/travel-info/baggage/baggage-limitations.jsp">Bag limitations				   
+												
+												
+													<span class="call-to-action" aria-hidden="true"></span>
+												
+											</a>
+										</li>
+									
+										
+										<li>
+											<a href="/i18n/customer-service/support/optional-service-fees.jsp">Bag and optional fees				   
+												
+												
+													<span class="call-to-action" aria-hidden="true"></span>
+												
+											</a>
+										</li>
+									
+								</ul>
+							
+					</section>
+				
+						
+
+
+		
+				
+						<img id="header-image" itemprop="image" src="/content/images/travel-info/baggage/checked-baggage-policy-header.jpg" alt="Checked bags">
+					
+			
+	
+
+
+		
+			
+			
+					<nav class="toolbar five" role="navigation">
+				
+				<ul class="row">
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="transportation:home"></span></div> -->
+								<div><adc-icon icon="transportation:home" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/checked-baggage-policy.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-suitcase"></span></div> -->
+								<div><adc-icon icon="airport:baggage-suitcase" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Checked bag policy</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-roller"></span></div> -->
+								<div><adc-icon icon="airport:baggage-roller" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Carry-on bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/delayed-or-damaged-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-information"></span></div> -->
+								<div><adc-icon icon="airport:baggage-information" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Delayed or damaged bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/travelInformation/bag/tracker/">
+								<!-- <div><span aria-hidden="true" class="technology:map-location"></span></div> -->
+								<div><adc-icon icon="technology:map-location" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Track your bags</div>
+								
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		
+	
+
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2>How many bags can you take?</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Check up to 10 bags on American Airlines operated flights if your trip is:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Domestic</li>
+						
+				
+					
+							<li>Transatlantic</li>
+						
+				
+					
+							<li>Transpacific</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Check up to 5 bags on American-operated flights if you’re traveling to / through / from:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Mexico / Caribbean / Central America*</li>
+						
+				
+					
+							<li>South America*</li>
+						
+				
+					
+							<li>Brazil*</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/baggage-limitations.jsp" class="">
+										Bag limitations
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/baggage-regions.jsp" class="aa-pop-win-lrg">
+										Bag regions
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*There are seasonal and year-round bag restrictions</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#weightandsize">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Weight and size</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="weightandsize" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>We calculate the size limits of your bag by adding the total outside dimensions of each bag, length + width + height.</p>
+		
+			
+			
+			
+			<p>For all regions, except to / from Australia or New Zealand, your checked bag allowance is:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Dimension: 62 in / 158 cm</li>
+						
+				
+					
+							<li>Weight: 50 lbs / 23 kgs</li>
+						
+				
+					
+							<li>For First / Business, weight is 70 lbs / 32 kgs for complimentary bags and 50 lbs / 23 kgs for excess charged bags</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>For all confirmed customers on flights to / from Australia or New Zealand:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Dimension: 62 in / 158 cm </li>
+						
+				
+					
+							<li>Weight: 70 lbs / 32kgs for complimentary bags and 50 lbs / 23 kgs for excess charged bags</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/oversize-and-overweight-baggage.jsp" class="">
+										Oversize and overweight bags
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			
+					
+							
+						
+					
+							<h3>What it will cost</h3>
+						
+				
+
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#cost">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Complimentary bags</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="cost" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>In some cases, you won't have to pay the fees for up to 3 bags when traveling on itineraries marketed and operated by American Airlines. If you qualify for complimentary bags based on your AAdvantage<sup>®</sup> status or <strong>one</strong>world<sup>®</sup> status, the benefits are based on your highest status level at time of ticketing or check-in.</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+					<h4>If your status level is:</h4>
+				
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Higher at ticketing than at check-in, show your ticket receipt to the airport agent</li>
+						
+				
+					
+							<li>Lower at ticketing than at check-in, current benefits will automatically apply</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>Free checked bags may not apply to codeshare flights operated by our partners. Visit the website of the airline operating your flight for details.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/support/optional-service-fees.jsp#otherairlines" class="">
+										Other airlines 
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>1st checked bag is complimentary for:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Eligible AAdvantage<sup>®</sup> Aviator<sup>®</sup> and Citi<sup>®</sup> / AAdvantage<sup>®</sup> cardmembers (on domestic American Airlines operated itineraries)</li>
+						
+				
+					
+							<li>AAdvantage Gold<sup>®</sup> status</li>
+						
+				
+					
+							<li>GOL <strong>Diamond</strong> Smiles members</li>
+						
+				
+					
+							<li>oneworld<sup>®</sup> Ruby</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+
+		
+			
+					<h4>or when traveling to these destinations:</h4>
+				
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+											<ul class="list-basic list-columns three">
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Argentina* </li>
+						
+				
+					
+							<li>Australia^ </li>
+						
+				
+					
+							<li>Brazil* </li>
+						
+				
+					
+							<li>Chile* </li>
+						
+				
+					
+							<li>China^</li>
+						
+				
+					
+							<li>Colombia* </li>
+						
+				
+					
+							<li>Cuba*</li>
+						
+				
+					
+							<li>Ecuador*</li>
+						
+				
+					
+							<li>El Salvador*</li>
+						
+				
+					
+							<li>Haiti* </li>
+						
+				
+					
+							<li>Hong Kong^</li>
+						
+				
+					
+							<li>India^</li>
+						
+				
+					
+							<li>Israel^</li>
+						
+				
+					
+							<li>Japan^</li>
+						
+				
+					
+							<li>New Zealand^</li>
+						
+				
+					
+							<li>Panama*</li>
+						
+				
+					
+							<li>Paraguay* </li>
+						
+				
+					
+							<li>Peru* </li>
+						
+				
+					
+							<li>Qatar*</li>
+						
+				
+					
+							<li>South Korea^</li>
+						
+				
+					
+							<li>Transatlantic* </li>
+						
+				
+					
+							<li>Uruguay*</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*Excluding Basic Economy</p>
+		
+			
+			
+			
+			<p>^Excluding Basic Economy for tickets issued on / after June 7, 2023</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>1st and 2nd checked bags are complimentary for:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>AAdvantage Platinum<sup>®</sup> status</li>
+						
+				
+					
+							<li><strong>one</strong>world<sup>®</sup> Sapphire members </li>
+						
+				
+					
+							<li>Confirmed Domestic First customers</li>
+						
+				
+					
+							<li>Confirmed Business customers</li>
+						
+				
+					
+							<li>Confirmed Premium Economy customers</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>1st, 2nd and 3rd checked bags are complimentary for:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Confirmed Flagship<sup>®</sup> First and Flagship<sup>®</sup> Business Plus customers*</li>
+						
+				
+					
+							<li>AAdvantage Executive Platinum<sup>®</sup> status</li>
+						
+				
+					
+							<li>AAdvantage Platinum Pro<sup>®</sup> status</li>
+						
+				
+					
+							<li><strong>one</strong>world<sup>®</sup> Emerald</li>
+						
+				
+					
+							<li>Active U.S. military and / or dependents with ID traveling on orders (1st - 5th bags free of charge)**</li>
+						
+				
+					
+							<li>Active U.S. military with ID on personal travel**</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*Applicable only to Flagship<sup>®</sup> First International, Flagship<sup>®</sup> First Transcontinental and Flagship<sup>®</sup> Business Plus. AAdvantage Executive Platinum<sup>®</sup> status, AAdvantage Platinum Pro<sup>®</sup> status and oneworld<sup>®</sup> Emerald members traveling in Flagship<sup>®</sup> First may check a 4th bag at no charge</p>
+		
+			
+			
+			
+			<p>**Free checked bags apply when traveling on American marketed and operated itineraries. Free checked bags don't apply to codeshare flights operated by our partners.</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#charges">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Bag fees</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="charges" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Save time, pay online</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Don’t wait in line at the airport – get the best price available and check up to 3 bags when you check-in on aa.com or in the app.</p>
+		
+			
+			
+			
+			<p>Pay for your checked bags online within 24 hours of departure and receive the best price available for travel on domestic flights within and between the U.S., including Hawaii and Alaska, and select markets in the Caribbean and Central America.</p>
+		
+			
+			
+			
+			<p>For tickets issued on / after February 20, 2024, save $5 on the 1st checked bag fee for travel within and between the U.S., including Hawaii and Alaska, Puerto Rico and U.S. Virgin Islands.</p>
+		
+			
+			
+			
+			<p>For more information about paying for your bags online, visit our customer service FAQs.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/faqs/customer-service-faqs.jsp" class="">
+										Customer service FAQs
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+							
+							
+							
+								
+								
+										
+										<p>All published bag fees apply at each check-in location and are base rates according to travel dates and destination; applicable taxes are not shown.</p>
+									
+							
+							
+								
+								<table width="table-basic -responsive"> 
+									<thead>
+										<tr>
+											
+												
+												<th width="40%" class="text-left" scope="col">Region</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 1^</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 2^</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 3</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 4+</th>
+											
+										</tr>
+									</thead>
+									<tbody>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">U.S. (including HI / AK), Puerto Rico, and U.S. Virgin Islands
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$40^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$45^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$150
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Canada and Mexico
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$35^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$45^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Haiti
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $35*
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$65
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Caribbean (except Cuba and Haiti)
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$35^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$45^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Central America (except Panama)
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$35^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$45^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Guyana and Suriname
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$35^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$45^^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Panama / Colombia / Ecuador / Peru
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $45*
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$100**
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">South America (except Colombia, Ecuador, Guyana, Peru and Suriname)
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $60*
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$100**
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Transatlantic
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $75*
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$100
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">Transpacific
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $75*
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$100
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+									</tbody>
+								</table>
+							
+						
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>All bag fees are non-refundable and apply per person, each way, even if you buy or get an upgrade that includes free checked bags. If you believe you were incorrectly charged for bag fees, contact an American representative for help or file a refund claim within 45 days.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/support/optional-service-fees.jsp" class="">
+										Bag and optional fees
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/contact-american/receipts-and-refunds.jsp#refunds" class="">
+										Refunds
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>^Main Plus includes 1 extra free checked bag in addition to the Main Cabin allowance (max of 2)</p>
+		
+			
+			
+			
+			<p>^^A $30 1st checked bag fee and a $40 2nd checked bag fee applies for tickets issued on / before February 19, 2024. A $40 1st checked bag fee ($35 if paid online) and a $45 2nd checked bag fee applies within / between the U.S. (including HI / AK), Puerto Rico and U.S. Virgin Islands for tickets issued on / after February 20, 2024. Otherwise, a $35 1st checked bag fee and a $45 2nd checked bag fee applies for tickets issued on / after February 20, 2024.</p>
+		
+			
+			
+			
+			<p>*Free bag excludes Basic Economy: For Basic Economy travel to / from Haiti, a $30 1st bag fee applies for tickets issued on / before February 19, 2024 and a $35 1st bag fee applies for tickets issued on / after February 20, 2024. For Basic Economy travel to/from Panama / Colombia / Ecuador / Peru a $45 1st bag fee applies. For Basic Economy travel to / from South America (excluding Colombia, Ecuador, Guyana, Peru, Suriname) a $45 1st bag fee applies for tickets issued on / before September 19, 2023 and a $60 1st bag fee applies for tickets issued on / after September 20, 2023. For Transatlantic Basic Economy travel, a $75 1st bag fee applies. For Transpacific Basic Economy travel for tickets issued on / after June 7, 2023 a $75 1st bag fee applies and for tickets issued on / before June 6, 2023 there is no 1st bag fee.</p>
+		
+			
+			
+			
+			<p>**For travel to / from Panama and South America (except Guyana and Suriname), a $65 2nd bag fee applies for tickets issued on / before September 19, 2023 and a $100 2nd bag fee applies for tickets issued on / after September 20, 2023.</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+					<h4>If your region isn’t listed, we can still help: </h4>
+				
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/contact-american/reservations-and-ticket-changes.jsp" class="">
+										Reservations and ticket changes
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/baggage-regions.jsp" class="">
+										Bag regions
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Through checked bags</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>We only through check bags if all your tickets are in the same reservation and you’re connecting to another American Airlines or <strong>one</strong>world<sup>®</sup> flight.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/faqs/customer-service-faqs.jsp" class="">
+										Customer service FAQs
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="cuba">Cuba</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Each passenger traveling to Cuba may only check up to 2 bags* with a maximum weight of 70 lbs / 32 kgs per bag, plus 1 carry-on bag and 1 personal item.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/baggage-limitations.jsp" class="">
+										Bag limitations 
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp" class="">
+										Carry-on bags
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*Seasonal exceptions apply to Havana, Cuba effective for travel on / after March 14, 2023</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#cubabagfees">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">What it will cost</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="cubabagfees" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+							
+							
+							
+								
+								
+										
+										<p>All published bag fees apply at each check-in location and are base rates according to travel dates and destination; applicable taxes are not shown.</p>
+									
+							
+							
+								
+								<table width="table-basic -responsive"> 
+									<thead>
+										<tr>
+											
+												
+												<th width="40%" class="text-left" scope="col">Trips originating in Cuba</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 1</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 2</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 3</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 4+</th>
+											
+										</tr>
+									</thead>
+									<tbody>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">From Cuba
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$0
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">To Cuba
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$150 / $200**
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">–
+																
+																	
+																			<span class="hidden-accessible">Not available</span>
+																		
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+									</tbody>
+								</table>
+							
+								
+								<table width="table-basic -responsive"> 
+									<thead>
+										<tr>
+											
+												
+												<th width="40%" class="text-left" scope="col">Trips originating outside Cuba</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 1</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 2</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 3</th>
+											
+												
+												<th width="15%" class="text-center" scope="col">Bag 4+</th>
+											
+										</tr>
+									</thead>
+									<tbody>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">To Cuba
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0 / $35*^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$150 / $200**^
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">–
+																
+																	
+																			<span class="hidden-accessible">Not available</span>
+																		
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+											
+											<tr>
+												
+													
+													
+															<th class="text-left" scope="row">From Cuba
+																
+															</th>
+														
+													
+												
+													
+													
+															<td class="text-center">$0
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$0
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+													
+													
+															<td class="text-center">$200
+																
+															</td>
+														
+													
+												
+											</tr>
+										
+									</tbody>
+								</table>
+							
+						
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>All bag fees are non-refundable and apply per person, each way, even if you buy or get an upgrade that includes free checked bags. If you believe you were incorrectly charged for bag fees, contact an American representative for help or file a refund claim within 45 days.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/oversize-and-overweight-baggage.jsp" class="">
+										Oversize and overweight bags 
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/support/optional-service-fees.jsp" class="">
+										Bag and optional fees
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/contact-american/receipts-and-refunds.jsp#refunds" class="">
+										Refunds
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*For travel to Cuba, a $30 1st bag fee applies to Basic Economy and Main Cabin for tickets issued on / before September 19, 2023. For tickets issued on / after September 20, 2023 a $30 1st bag fee applies to Basic Economy and there is no 1st bag fee for Main Cabin. For tickets issued on / after February 20, 2024 a $35 1st bag fee applies to Basic Economy and there is no 1st bag fee for Main Cabin.</p>
+		
+			
+			
+			
+			<p>**For travel to Cuba, a $200 2nd bag fee applies seasonally for travel from November 16 – January 9. A $150 2nd bag fee applies otherwise. Excludes Main Plus for tickets issued on / after September 20, 2023.</p>
+		
+			
+			
+			
+			<p>^Main Plus includes 1 extra free checked bag in addition to the Main Cabin allowance (max of 2).</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2>What else can you travel with?</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+			
+												
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/special-assistance/mobility-and-medical-devices.jsp" class="">
+										Mobility and medical devices
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/special-assistance/pets.jsp" class="">
+										Traveling with pets
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/specialty-and-sports.jsp" class="">
+										Special items and sports equipment
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2>Restricted items</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>There are some items that are only allowed in checked bags or your carry-on. Check to see how to pack and travel with restricted items.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/restricted-items.jsp" class="">
+										Restricted items
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+							<h2>Flying on a partner airline?</h2>
+						
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Find helpful information if your trip includes 1 or more flights with our partner airlines.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#britishairways" class="">
+										British Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#finnair" class="">
+										Finnair
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#iberia" class="">
+										Iberia
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#japan" class="">
+										Japan Airlines
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qantas" class="">
+										Qantas
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qatar" class="">
+										Qatar Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+					<section class="section">
+						<h2>You may also like...</h2>
+						
+							
+							
+						
+							
+							
+									<ul class="list-standard">
+								
+						
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/baggage/baggage.jsp#prepaidbags">Paying for bags online <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/baggage/oversize-and-overweight-baggage.jsp">Oversize and overweight bags <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+
+						
+							
+							
+						
+							
+							
+									</ul>
+								
+						
+					</section>					
+				
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
+			<h1 itemprop="name">Carry-on bags</h1>
+			
+
+			<!-- Special Notices -->
+			
+					<section class="message-info">
+						<h2 class="header">Special notice</h2>
+						
+							<p>Customers flying Basic Economy are now allowed 1 free carry-on (in addition to a personal item) to all destinations.</p>
+						
+						
+					</section>
+				
+						
+
+
+		
+				
+						<img id="header-image" itemprop="image" src="/content/images/travel-info/baggage/carry-on-baggage-header.jpg" alt="Carry on bags at the gate">
+					
+			
+	
+
+
+		
+			
+			
+					<nav class="toolbar five" role="navigation">
+				
+				<ul class="row">
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="transportation:home"></span></div> -->
+								<div><adc-icon icon="transportation:home" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/checked-baggage-policy.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-suitcase"></span></div> -->
+								<div><adc-icon icon="airport:baggage-suitcase" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Checked bag policy</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-roller"></span></div> -->
+								<div><adc-icon icon="airport:baggage-roller" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Carry-on bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/delayed-or-damaged-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-information"></span></div> -->
+								<div><adc-icon icon="airport:baggage-information" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Delayed or damaged bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/travelInformation/bag/tracker/">
+								<!-- <div><span aria-hidden="true" class="technology:map-location"></span></div> -->
+								<div><adc-icon icon="technology:map-location" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Track your bags</div>
+								
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		
+	
+
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2>Know what you can carry on</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>There are some items that can only travel in your carry-on bag (and some items that must be checked). Make sure you know where to pack these restricted items – and if you can carry them on.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/restricted-items.jsp" class="">
+										Restricted items
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="http://www.tsa.gov/traveler-information/prohibited-items" target="_blank">
+										TSA restricted items
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+							<h2>1 personal item and 1 carry-on</h2>
+						
+				
+		
+	
+			
+					<h3>Personal item</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Your personal item like a purse or small handbag must fit under the seat in front of you. Dimensions should not exceed 18 x 14 x 8 inches (45 x 35 x 20 cm).</p>
+		
+			
+			
+			
+			<p>These don’t count as your personal item or carry-on:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Diaper bags (1 per child)</li>
+						
+				
+					
+							<li>Breast pump</li>
+						
+				
+					
+							<li>Small, soft-sided cooler of breast milk</li>
+						
+				
+					
+							<li>Child safety seats, strollers and medical or mobility devices </li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+					<div class="row">
+						
+							
+							<div class="span4 right">
+								
+									
+									
+										
+										
+	
+	
+	
+	
+				<img src="/content/images/travel-info/baggage/carry-on-baggage-sizer.jpg" alt="Carry-on bag allowance is 22 inches high by 14 inches long by 9 inches wide">
+		
+
+									
+								 
+							</div>
+						
+						<div class="span8">
+							
+								
+									
+									
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Carry-on requirements</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Shouldn’t exceed 22 x 14 x 9 inches / 56 x 36 x 23 centimeters (including handles and wheels)</li>
+						
+				
+					
+							<li>Must fit in the sizer at the airport</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>If your items don’t fit in the overhead bin or under the seat, they may need to be checked. There may be additional carry-on bag restrictions at certain airports or on certain airplanes. </p>
+		
+			
+			
+			
+			<p>We recommend labeling your carry-on the same way you do checked bags in case this happens. </p>
+		
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>Soft-sided garment bags up to 51 inches / 130 cm (length + width + height) can also be taken as your carry-on item.</p>
+		
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>Musical instruments are also considered a carry-on item and must fit in the overhead bin or under the seat in front of you.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/specialty-and-sports.jsp" class="">
+										Special items and sports equipment
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>In addition, when traveling with a pet, the kennel or container counts as either your carry-on or your personal item and the carry-on pet fee also applies.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/special-assistance/pets.jsp" class="">
+										Traveling with pets
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+							
+						</div>
+					</div>
+				
+
+				
+
+				
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Valet bags</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Regional flights on American Eagle<sup>®</sup> planes have limited overhead bin space. If your carry-on is larger than the personal item dimensions, you must valet your bag before boarding.* We’ll tag and check your bag at the gate for you free of charge. When you arrive, you’ll receive your bag on the jetbridge after exiting the plane.</p>
+		
+			
+			
+			
+			<p>Remove any batteries, electronic cigarettes and other restricted items from checked bags.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/restricted-items.jsp" class="">
+										Restricted items
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div id="valetbags" class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*Embraer ERJ-175 planes allow carry-on bags and don’t offer valet service.</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Liquids</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>TSA allows certain duty-free liquids through security in your carry-on bag if they’re packaged in a security tamper-evident bag. If you’re traveling with liquids or are unsure about any item, please contact the TSA.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://www.tsa.gov/travel/security-screening/liquids-rule" target="_blank">
+										TSA liquids rule
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+					<section class="section">
+						<h2>You may also like...</h2>
+						
+							
+							
+						
+							
+							
+									<ul class="list-standard">
+								
+						
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/baggage/oversize-and-overweight-baggage.jsp">Oversize and overweight bags <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/special-assistance/traveling-children.jsp">Traveling with children <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+
+						
+							
+							
+						
+							
+							
+									</ul>
+								
+						
+					</section>					
+				
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
+			<h1 itemprop="name">Delayed or damaged bags</h1>
+			
+
+			<!-- Special Notices -->
+			
+						
+
+
+		
+	
+
+
+		
+			
+			
+					<nav class="toolbar five" role="navigation">
+				
+				<ul class="row">
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="transportation:home"></span></div> -->
+								<div><adc-icon icon="transportation:home" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/checked-baggage-policy.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-suitcase"></span></div> -->
+								<div><adc-icon icon="airport:baggage-suitcase" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Checked bag policy</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-roller"></span></div> -->
+								<div><adc-icon icon="airport:baggage-roller" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Carry-on bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/delayed-or-damaged-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-information"></span></div> -->
+								<div><adc-icon icon="airport:baggage-information" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Delayed or damaged bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/travelInformation/bag/tracker/">
+								<!-- <div><span aria-hidden="true" class="technology:map-location"></span></div> -->
+								<div><adc-icon icon="technology:map-location" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Track your bags</div>
+								
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		
+	
+
+
+	
+	
+			<section>
+		
+		
+			
+					
+							
+									<h2 id="delayedbags">Delayed bags</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Bags can sometimes be delayed, even with our best efforts. If you can’t find your bags after landing, file a report at the Baggage Service Office before leaving the airport.</p>
+		
+			
+			
+			
+			<p>For flights within the U.S., report delayed bags:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Within 4 hours of arriving at your destination </li>
+						
+				
+					
+							<li>Within 12 hours of arriving if you used Bags VIP Luggage Delivery</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>For international flights, report delayed bags upon arriving at your destination and before leaving the airport.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#findyourbags">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Find your bags</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="findyourbags" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>The agent will give you a 13-character file ID when you file a report. You can use the file ID to submit a claim for your delayed bags and check the status of your bags.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://app.nettracer.aero/pax/american/auth/login" target="_blank">
+										Find your bags
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Bags delayed 5+ days </h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>If your bag has been missing for 5 or more days, we need more information to help you. To get started, submit an online claim using the 13-character file ID you received at the airport.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://centralbaggage.aa.com/en-US/?from=selfServiceCallouts-BG-DLD_RIBSMT" target="_blank">
+										Submit a claim
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#whathappensnext">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">What happens next?</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="whathappensnext" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Our Central Baggage Resolution Office will do everything they can to locate your bag. If they’re unsuccessful a final decision about your claim will be made in accordance with our:</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/support/conditions-of-carriage.jsp" class="">
+										Conditions of carriage
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/customer-service/support/conditions-of-carriage.jsp#liabilityforinternationalflights" class="">
+										Liability for international flights 
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>This decision will be sent to you by email.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Reimbursement</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>We will reimburse you for the reasonable and necessary items you need immediately while away from home without your bags. To be reimbursed send this information to us within 30 days of your delay:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Your 13-character file ID</li>
+						
+				
+					
+							<li>A copy of your ticket receipt and baggage claim checks</li>
+						
+				
+					
+							<li>Your original, dated, itemized receipts </li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>If we can't find your bag, any expense reimbursement will be deducted from the final settlement amount.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+					<h4>How to submit your claim </h4>
+				
+			
+			
+			<p>The quickest way to submit your claim and verification items is to submit them online.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://centralbaggage.aa.com/en-US/?from=selfServiceCallouts-BG-DLD_RIBSMT" target="_blank">
+										Submit a claim
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>If you can't submit online, you can send your claim and verification items along with a completed Passenger Property Questionnaire by mail.</p>
+		
+			
+			
+			
+			<p>American Airlines Central Baggage<br>4000 East Sky Harbor Boulevard<br>Phoenix, AZ 85034</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/content/images/travel-info/baggage/en_US/baggage-ppq-04132021.pdf" target="_blank">
+										Complete the questionnaire (PDF)
+																					
+											<span class="hidden-accessible">Opens a PDF in a new window.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="damagedbags">Damaged bags</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Bags may get damaged when they’re checked, even with our best efforts. If you notice damage to your bags after landing, file a report at the Baggage Service Office.</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>For flights within the U.S., file a report before leaving the airport, or within 24 hours of receiving your bags.*</li>
+						
+				
+					
+							<li>For international flights, file a report before leaving the airport, or within 7 days of receiving your bags.</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>We’ll give you a 13-character file ID when you file a report. You can use the file ID to submit a claim.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="https://centralbaggage.aa.com/en-US/?from=selfServiceCallouts-BG-DLD_RIBSMT" target="_blank">
+										Submit a claim
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/baggage/liability-limitations.jsp" class="">
+										Liability limitations
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>* You must report damage to delayed bags on flights within the U.S. within 24 hours of receiving them.</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#damagefromtsa">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Damage from (TSA) inspections</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="damagefromtsa" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>If Transportation Security Administration (TSA) inspects your bag, they’ll place a written notification inside or a seal on the outside. If you think the damage was caused by the inspection, contact TSA at 866-289-9673.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#howtoreducerisk">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">How to reduce the risk of damage</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="howtoreducerisk" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Don't over-pack. Over-packing can cause stress on seams and zippers, making it more likely to tear or break.</li>
+						
+				
+					
+							<li>Don't check bags that won’t close completely. Bags that don't close completely leaves your belongings exposed to damage.</li>
+						
+				
+					
+							<li>Avoid checking carry-on items like laptops, briefcases and totes.</li>
+						
+				
+					
+							<li>Don't travel with extremely old or worn bags. These bags are more likely to break or tear. </li>
+						
+				
+					
+							<li>Don't pack restricted items.</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/restricted-items.jsp" class="">
+										Restricted items
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="missingcontents">Missing contents</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>We will not accept liability for missing items inside a checked bag on flights within the U.S. unless it has been reported as delayed or damaged.</p>
+		
+			
+			
+			
+			<p>If your bag was delayed or damaged and you notice missing items after it’s delivered, you must file a missing items claim within 24 hours of receiving your bag for flights within the U.S., or 7 days for international flights.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://centralbaggage.aa.com/en-US/?from=selfServiceCallouts-BG-DLD_RIBSMT" target="_blank">
+										Submit a claim
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+							<h2>Flying on a partner airline?</h2>
+						
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Find helpful information if your trip includes 1 or more flights with our partner airlines.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+									<ul class="list-standard">
+								
+							
+							
+							
+							
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#britishairways" class="">
+										British Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#finnair" class="">
+										Finnair
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#iberia" class="">
+										Iberia
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#japan" class="">
+										Japan Airlines
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qantas" class="">
+										Qantas
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qatar" class="">
+										Qatar Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+					<section class="section">
+						<h2>You may also like...</h2>
+						
+							
+							
+						
+						
+							
+							
+									<p>
+										
+												<a href="/i18n/customer-service/contact-american/lost-and-found.jsp">Lost and found <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</p>
+								
+						
+
+						
+							
+							
+						
+					</section>					
+				
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
+			<h1 itemprop="name">Restricted items</h1>
+			
+
+			<!-- Special Notices -->
+			
+						
+
+
+		
+	
+
+
+		
+			
+			
+					<nav class="toolbar five" role="navigation">
+				
+				<ul class="row">
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="transportation:home"></span></div> -->
+								<div><adc-icon icon="transportation:home" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/checked-baggage-policy.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-suitcase"></span></div> -->
+								<div><adc-icon icon="airport:baggage-suitcase" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Checked bag policy</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-roller"></span></div> -->
+								<div><adc-icon icon="airport:baggage-roller" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Carry-on bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/i18n/travel-info/baggage/delayed-or-damaged-baggage.jsp">
+								<!-- <div><span aria-hidden="true" class="airport:baggage-information"></span></div> -->
+								<div><adc-icon icon="airport:baggage-information" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Delayed or damaged bags</div>
+								
+							</a>
+						</li>
+					
+						
+		                <li class="span">
+							<a href="/travelInformation/bag/tracker/">
+								<!-- <div><span aria-hidden="true" class="technology:map-location"></span></div> -->
+								<div><adc-icon icon="technology:map-location" size="32" class="adc-icon"></adc-icon></div>
+		                        <div>Track your bags</div>
+								
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		
+	
+
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2>What can you fly with? </h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>To prevent inflight danger, many common items are restricted by the Transportation Security Administration (TSA) and Federal Aviation Administration (FAA). If you travel with objects on the TSA prohibited items or FAA Pack Safe Hazmat restrictions lists, they will be confiscated.*</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="http://www.tsa.gov/traveler-information/prohibited-items" target="_blank">
+										TSA prohibited items
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="https://www.faa.gov/hazmat/packsafe/" target="_blank">
+										FAA Pack Safe Hazmat restrictions
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*You will be in violation of U.S. Federal Law if you don’t declare any dangerous items. This means you could face up to 5 years imprisonment and a fine of $250,000 (49 U.S.C 5124).</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#alcoholicbeveragesover70">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Alcoholic beverages over 70 percent by volume </span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="alcoholicbeveragesover70" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Alcoholic beverages over 140 proof</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#alcoholicbeveragesunder70">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Alcoholic beverages under 70 percent by volume </span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="alcoholicbeveragesunder70" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Beer</li>
+						
+				
+					
+							<li>Wine or</li>
+						
+				
+					
+							<li>Other alcoholic beverages in retail packaging</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://www.tsa.gov/travel/security-screening/liquids-rule?" target="_blank">
+										Visit the TSA for rules on carry-on bags
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Opened containers aren't allowed.</p>
+		
+			
+			
+			
+			<p>You can take a maximum of 5 liters per passenger for beverages 24 – 70 percent alcohol by volume in checked bags; customs regulations vary by country. </p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#animalproducts">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Animal products/products of animal origin (EU destinations only) </span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="animalproducts" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Meat</li>
+						
+				
+					
+							<li>Cheese</li>
+						
+				
+					
+							<li>Sausages</li>
+						
+				
+					
+							<li>Lard</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>See notes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Due to restrictions set by the European Union (EU), you cannot transport certain products of animal origin into the EU. Please check ahead of time to make sure you comply with these restrictions.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#batteries">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Batteries</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="batteries" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>9-volt</li>
+						
+				
+					
+							<li>AA/AAA/C/D</li>
+						
+				
+					
+							<li>Alkaline</li>
+						
+				
+					
+							<li>Carbon zinc</li>
+						
+				
+					
+							<li>Silver oxide</li>
+						
+				
+					
+							<li>Zinc air</li>
+						
+				
+					
+							<li>Lithium or lithium-ion</li>
+						
+				
+					
+							<li>Nickel-cadmium or nickel-metal hydride</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Please remove batteries from devices in your checked bags and put them in your carry-on in separate plastic bags.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+								
+									
+									
+	
+	
+	
+			
+		
+
+	
+
+		
+		
+
+		
+			
+					<h4>Lithium-ion battery acceptance by Watt-hour (Wh):</h4>
+				
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Less than 100 Wh – 4 spares in carry-on bag</li>
+						
+				
+					
+							<li>100 - 160 Wh – 2 spares in carry-on bag</li>
+						
+				
+					
+							<li>160 - 300 Wh – Contact Special Assistance</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/contact-american/special-assistance.jsp" class="">
+										Special assistance
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+												
+												 
+												 
+												 
+												 
+													   <ul class="list-standard">
+												 
+											
+									
+							
+					
+				
+				
+					
+							<li>Damaged batteries
+</li>
+						
+				
+					
+							<li>Automobile, boat or aircraft batteries</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Portable electronic devices containing cells or batteries (including lithium) and spares for these devices intended for personal use: </p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Watch</li>
+						
+				
+					
+							<li>Calculator</li>
+						
+				
+					
+							<li>Camera</li>
+						
+				
+					
+							<li>Cell phone</li>
+						
+				
+					
+							<li>Laptop computer</li>
+						
+				
+					
+							<li>Notebook computer</li>
+						
+				
+					
+							<li>Camcorder</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>We allow up to 2 spare batteries for personal use, with restrictions:  </p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Each spare battery is individually protected in accordance with our lithium battery acceptance policy</li>
+						
+				
+					
+							<li>Batteries are in carry-on bag only</li>
+						
+				
+					
+							<li>For a lithium metal battery, lithium content cannot be more than 2 grams per battery</li>
+						
+				
+					
+							<li>For lithium-ion batteries, a maximum of 2, not exceeding 160 Wh each, are allowed in carry-on bag with airline approval</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://www.phmsa.dot.gov/safe-travel/batteries" target="_blank">
+										Traveling with lithium batteries
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Portable electronic devices containing cells or batteries (including lithium) and spares for these devices not intended for personal use: </p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Watch</li>
+						
+				
+					
+							<li>Calculator</li>
+						
+				
+					
+							<li>Camera</li>
+						
+				
+					
+							<li>Cell phone</li>
+						
+				
+					
+							<li>Laptop computer</li>
+						
+				
+					
+							<li>Notebook computer</li>
+						
+				
+					
+							<li>Camcorder</li>
+						
+				
+					
+							<li>iPod</li>
+						
+				
+					
+							<li>iPad</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>We allow up to 2 of each device and 2 spare batteries intended for personal use only, with restrictions: </p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Approved devices and batteries are safely packaged in carry-on only</li>
+						
+				
+					
+							<li>Bags and boxes carrying more than the allotted amount for personal use will not be accepted</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#cuttinginstruments">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Cutting instruments</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="cuttinginstruments" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Metal knives (of any length or type)</li>
+						
+				
+					
+							<li>Box cutters</li>
+						
+				
+					
+							<li>Ice picks</li>
+						
+				
+					
+							<li>Straight razors</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes</p>
+		
+			
+			
+			
+			<p>Carry-on bag - no</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with plastic cutlery and safety/disposable razors in your carry-on bag.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#defensesprays">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Defense sprays</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="defensesprays" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Examples</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Mace</li>
+						
+				
+					
+							<li>Tear-gas</li>
+						
+				
+					
+							<li>Pepper spray</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#drones">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Drones</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="drones" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Drones</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes, with restrictions</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Your drone's battery must not exceed 160 Wh</p>
+		
+			
+			
+			
+			<p>Drone can be carried on if it or its box is less than 22 x 14 x 9 inches / 56 x 36 x 23 centimeters</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#dryice">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Dry ice</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="dryice" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Dry ice for packing perishable items</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with up to 5.5 lbs/2.5 kgs as carry-on if:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Packed in a vented, hard plastic or heavy gauge styrofoam container</li>
+						
+				
+					
+							<li>You tell a ticket or gate agent </li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#ecigarettes">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Electronic cigarettes (vapor / e-cigarettes)</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="ecigarettes" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example:</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Vapor cigarettes</li>
+						
+				
+					
+							<li>e-cigarettes</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+												
+												 
+												 
+												 
+												 
+													   <ul class="list-standard">
+												 
+											
+									
+							
+					
+				
+				
+					
+							<li>Checked bags  - no</li>
+						
+				
+					
+							<li>Carry-on bag - yes</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Since some electronic cigarettes use lithium ion batteries, you cannot travel with them in your checked bags. You can travel with them in your carry-on, but you’re not allowed to use them onboard any flight. We recommend traveling with them in a designated carry case.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#explosives">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Explosives</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="explosives" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Fireworks</li>
+						
+				
+					
+							<li>Gunpowder</li>
+						
+				
+					
+							<li>Flares/flare guns </li>
+						
+				
+					
+							<li>Swingless golf club load strips</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with swingless golf clubs without strips.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#firearms">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Firearms or ammunition</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="firearms" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Handguns</li>
+						
+				
+					
+							<li>Rifles</li>
+						
+				
+					
+							<li>Shotguns</li>
+						
+				
+					
+							<li>Ammunition</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes*</p>
+		
+			
+			
+			
+			<p>Carry-on bag - no</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with firearms in checked bags only if they are declared to an agent at check-in. </p>
+		
+			
+			
+			
+			<p>You can travel with up to 11lbs/5kg small arms ammunition for sporting purposes in your checked bags if it is:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Securely packed in the original manufacturers' packaging</li>
+						
+				
+					
+							<li>Packaged in fiber, wood, metal or other packaging specifically designed to carry small amounts of ammunition</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/firearms-and-ammunition.jsp" class="">
+										Firearms and ammunition
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+					
+						
+						
+							
+							
+	
+			
+			<div class="footnote" tabindex="0">
+		
+	
+			
+		
+	
+
+	
+
+		
+			
+			
+			
+			<p>*Firearms are not allowed in checked bags on Landline motorcoach connections.</p>
+		
+		
+
+			
+	
+	
+			</div>
+		
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#flammableliquids">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Flammable liquids or solids</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="flammableliquids" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Fuel</li>
+						
+				
+					
+							<li>Paints</li>
+						
+				
+					
+							<li>Gas torches (including micro-torches and torch lighters) </li>
+						
+				
+					
+							<li>Flammable glues/epoxies</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+		
+
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#gaspoweredtools">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Gasoline-powered tools</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="gaspoweredtools" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Gas-powered trimmers/edgers </li>
+						
+				
+					
+							<li>Chain saws</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes</p>
+		
+			
+			
+			
+			<p>Carry-on bag - no</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can only travel with gasoline-powered tools in your checked bags if they are:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>New or unused</li>
+						
+				
+					
+							<li>In the original packaging (which must be in good condition)</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#householditems">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Household items</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="householditems" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Bleach</li>
+						
+				
+					
+							<li>Spray starch</li>
+						
+				
+					
+							<li>Insecticides</li>
+						
+				
+					
+							<li>Drain cleaners</li>
+						
+				
+					
+							<li>Solvents</li>
+						
+				
+					
+							<li>Aerosols</li>
+						
+				
+					
+							<li>Oven or bathroom cleaners </li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#hoverboards">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Hoverboards</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="hoverboards" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Hoverboards</li>
+						
+				
+					
+							<li>Balance wheels</li>
+						
+				
+					
+							<li>Electric small scooters</li>
+						
+				
+					
+							<li>Intelligent scooters</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>We don’t allow lithium ion battery-powered personal transportation devices on board or as carry-on or checked bags.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#lighters">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Lighters and matches</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="lighters" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Matches</li>
+						
+				
+					
+							<li>Lighters or lighter fluid</li>
+						
+				
+					
+							<li>Grill lighters</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - no</p>
+		
+			
+			
+			
+			<p>Carry-on bag - yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>When traveling to/from/through Japan, you can carry one lighter per person.</p>
+		
+			
+			
+			
+			<p>For all other travel, you can also carry-on:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>1 book of safety matches</li>
+						
+				
+					
+							<li>Common “Bic style” and unsealed “Zippo style” lighters</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>You cannot travel with:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Torch/wind-proof lighters</li>
+						
+				
+					
+							<li>“Strike-anywhere” matches</li>
+						
+				
+					
+							<li>Lighter fluid</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#marijuana">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Marijuana</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="marijuana" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Recreational Marijuana</li>
+						
+				
+					
+							<li>Medical Marijuana</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Although American is aware of various state laws that allow recreational or medical marijuana possession, the TSA has stated that possession of marijuana, even medical marijuana, is illegal under federal law and that it will refer passengers traveling with marijuana to law enforcement authorities. Accordingly, American does not allow passenger to transport marijuana on our flights. Anyone traveling with or transporting marijuana on American flights does at their own risk.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#mobility">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Mobility devices</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="mobility" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Electric wheelchairs with spillable batteries</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with mobility devices if:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Transported according to our guidelines</li>
+						
+				
+					
+							<li>Advance notice is given when traveling transatlantic</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/special-assistance/mobility-and-medical-devices.jsp" class="">
+										Mobility and devices
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#personalcare">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Personal care items</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="personalcare" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Aerosol deodorant or hair spray</li>
+						
+				
+					
+							<li>Insect repellent</li>
+						
+				
+					
+							<li>Perfume or cologne containing alcohol</li>
+						
+				
+					
+							<li>Nail polish or nail polish remover</li>
+						
+				
+					
+							<li>Large bottles of acetone such as liquid nails</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with personal care items in your carry-on bag if they are:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Travel-size (3.4 ounce containers or smaller)</li>
+						
+				
+					
+							<li>In a clear, plastic, one-quart zip-top bag</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>You can travel with personal care items in your checked bags if:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>You have no more than 70 ounces in total</li>
+						
+				
+					
+							<li>Each container has no more than 16 fluid ounces</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/baggage/carry-on-baggage.jsp" class="">
+										Carry-on bags
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#pressurized">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Pressurized containers / compressed gasses</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="pressurized" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Spray cans</li>
+						
+				
+					
+							<li>Butane</li>
+						
+				
+					
+							<li>Fuel</li>
+						
+				
+					
+							<li>Propane tanks</li>
+						
+				
+					
+							<li>CO2 cartridges</li>
+						
+				
+					
+							<li>Self-inflating rafts</li>
+						
+				
+					
+							<li>Recreational oxygen</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#recreationalppe">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Recreational / full-body PPE</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="recreationalppe" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Personal face / full-body pod</li>
+						
+				
+					
+							<li>Personal face / full-body tent</li>
+						
+				
+					
+							<li>Stadium tent</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags – yes</p>
+		
+			
+			
+			
+			<p>Carry-on bag – yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with these items in your bag, but they may not be used on board or in flight. If space is limited and the item doesn’t fit in the cabin, it may need to be checked.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Portable electronic air freshener / purifier</li>
+						
+				
+					
+							<li>Ozone generator</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags – no<br></p>
+		
+			
+			
+			
+			<p>Carry-on bag – yes</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Since some devices use lithium ion batteries, you cannot travel with them in your checked bags. You can travel with them in your carry-on, but you’re not allowed to use them on board any flight.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="https://www.phmsa.dot.gov/safe-travel/batteries " target="_blank">
+										Traveling with lithium batteries
+																					
+											<span class="hidden-accessible">Opens in a new window</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#samsunggalaxynote7">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Samsung Galaxy Note 7</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="samsunggalaxynote7" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Samsung Galaxy Note 7 devices</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Includes recalled and replacement devices.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#selfheatingmeals">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Self-heating meals</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="selfheatingmeals" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Flameless meal products such as HeaterMeals</li>
+						
+				
+					
+							<li>Meals Ready-To-Eat (MREs)</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>No</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#selfinflatinglifejackets">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Self-inflating life jackets</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="selfinflatinglifejackets" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Self-inflating life jackets with no more than 2 small CO2 cartridges for inflation purposes</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes</p>
+		
+			
+			
+			
+			<p>Carry-on bag - no</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can only travel with one life jacket in your checked bag, but it may be confiscated by the TSA.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#scissors">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Scissors and tools</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="scissors" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Metal scissors</li>
+						
+				
+					
+							<li>Screwdrivers</li>
+						
+				
+					
+							<li>Wrenches</li>
+						
+				
+					
+							<li>Pliers</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes but with restrictions</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with such items as carry-on if their measurements are:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Cutting edge of up to 4-inches : metal scissors</li>
+						
+				
+					
+							<li>Up to 7-inches : tools such as screwdrivers, wrenches and pliers</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+										
+										
+											<ul class="list-basic">
+										
+									
+							
+					
+				
+				
+					
+							<li>Crowbars</li>
+						
+				
+					
+							<li>Drills</li>
+						
+				
+					
+							<li>Hammers</li>
+						
+				
+					
+							<li>Saws</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Checked bags - yes</p>
+		
+			
+			
+			
+			<p>Carry-on bag - no</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#smartbags">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Smart bags</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="smartbags" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+				
+				
+				
+					
+							<p>Checked or carry-on bags with charging devices</p>
+						
+								
+				
+				
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed to travel?</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Yes but with restrictions</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with these bags as a carry-on if the battery is removable. If the bag needs to be checked or valeted you must remove the battery and carry it with you. Bags with non-removable batteries won't be accepted.</p>
+		
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			<a data-behavior="toggle" class="collapsible-toggle" href="#shockingdevices">
+				<span class="icon-expand icon-large" aria-hidden="true"></span>
+				<span class="delta">Stun guns / shocking devices</span>
+				<span class="hidden-accessible">This content can be expanded</span>
+			</a>
+			<div id="shockingdevices" class="collapsible-pane is-hidden">
+			
+			
+					
+					
+				
+
+			
+				
+
+				
+			
+				
+
+				
+
+				
+					
+					<div class="row">
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Example</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>TASER devices</li>
+						
+				
+					
+							<li>Stun guns</li>
+						
+				
+					
+							<li>Electro-shock weapons (conducted electrical weapons)</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Allowed for travel?</h3>
+				
+		
+
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+				
+						
+								
+										
+												
+													   <ul class="list-standard">
+												 
+												 
+												 
+												 
+												 
+											
+									
+							
+					
+				
+				
+					
+							<li>Checked bags - yes</li>
+						
+				
+					
+							<li>Carry-on bag - no</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+								
+								
+							
+						</div>
+						<div class="span4 span-tablet6">
+							
+								
+									
+									
+	
+	
+	
+			
+					<h3>Notes</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>You can travel with stun guns / shocking devices in checked bags only if transported in a manner that renders the device inoperable from accidental discharge.</p>
+		
+			
+			
+			
+			<p>Please remove all batteries from devices in your checked bags and put them in your carry-on in separate plastic bags.</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+					<h4>Lithium-ion battery acceptance by Watt-hour (Wh):</h4>
+				
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Less than 100 Wh – 4 spares in carry-on bag</li>
+						
+				
+					
+							<li>100 - 160 Wh – 2 spares in carry-on bag</li>
+						
+				
+					
+							<li>160 - 300 Wh – Contact Special Assistance</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/contact-american/special-assistance.jsp" class="">
+										Special assistance
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+								
+								
+							
+						</div>
+					</div>
+				
+
+				
+			
+					
+		
+				</div>
+			
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+							<h2>Flying on a partner airline?</h2>
+						
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Find helpful information if your trip includes 1 or more flights with our partner airlines.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#britishairways" class="">
+										British Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#finnair" class="">
+										Finnair
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#iberia" class="">
+										Iberia
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#japan" class="">
+										Japan Airlines
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qantas" class="">
+										Qantas
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/i18n/travel-info/partner-airlines/travel-policies-on-partner-airlines.jsp#qatar" class="">
+										Qatar Airways
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+					<section class="section">
+						<h2>You may also like...</h2>
+						
+							
+							
+						
+							
+							
+									<ul class="list-standard">
+								
+						
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/baggage/specialty-and-sports.jsp">Special items and sports equipment <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+							
+							
+									<li>
+										
+												<a href="/i18n/travel-info/baggage/oversize-and-overweight-baggage.jsp">Oversize and overweight bags <span class="call-to-action" aria-hidden="true"></span></a>
+											
+									</li>
+								
+						
+
+						
+							
+							
+						
+							
+							
+									</ul>
+								
+						
+					</section>					
+				
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
+			<h1 itemprop="name">Receipts and refunds </h1>
+			
+
+			<!-- Special Notices -->
+			
+						
+
+
+		
+	
+
+
+
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="receipts">Receipts</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Tickets and fees</h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Request a receipt for tickets, fees and ancillaries, like seats. Receipts are available starting 24 hours after your purchase or change for up to 18 months.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/your-receipts/" class="">
+										Receipts for tickets and fees
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+					<h3>Inflight purchases </h3>
+				
+		
+
+	
+
+		
+			
+			
+			
+			<p>Request a receipt for inflight purchases like food, drinks and Wi-Fi. Receipts are available starting 72 hours after your flight for up to 6 months.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="https://aal.flight-retail.com/receiptportal/" target="_blank">
+										Receipts for inflight food and drink purchases
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines.</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/receipts" class="">
+										Receipts for Wi-Fi and other inflight purchases
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="refunds">Refunds (request or status check)</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>If you bought your ticket or related travel products and services through American Airlines, you can request a refund or check your refund status.</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+			
+												
+						
+			
+			
+			
+					
+							
+							
+							
+							
+							
+									<ul class="list-standard">
+								
+						
+					
+						
+						
+								<li>
+									<a href="https://refunds.aa.com/refunds/" target="_blank">
+										Request a refund
+																					
+											<span class="hidden-accessible">Opens another site in a new window that may not meet accessibility guidelines</span>
+											<span class="icon-newpage" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+						
+						
+								<li>
+									<a href="/selfServiceRefund/#/refund/status/lookup " class="">
+										Check the status of a refund
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</li>
+											
+					
+					
+							</ul>
+						
+				
+		
+
+			
+	
+
+		
+			
+			
+			
+			<p>If you bought your ticket from a travel agent or on another website, contact them for refund help.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="help">Need more help? </h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/faqs/customer-service-faqs.jsp" class="">
+										Customer service FAQs
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section class="section">
+		
+		
+			
+					
+							
+									<h2 id="contactus">Send us a letter</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+					<h4>Mail to: </h4>
+				
+			
+			
+			<p>American Airlines<br>Attention: Passenger Refunds<br>4000 E. Sky Harbor Blvd.<br>Phoenix, AZ 85034</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+					<h4>Be sure to include:</h4>
+				
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+										
+										
+											<ul class="list-basic list-columns three">
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Passenger names</li>
+						
+				
+					
+							<li>Email or U.S. mail address</li>
+						
+				
+					
+							<li>Reason for request</li>
+						
+				
+					
+							<li>Receipts</li>
+						
+				
+					
+							<li>Ticket numbers</li>
+						
+				
+					
+							<li>Date of travel</li>
+						
+				
+					
+							<li>Departure and arrival cities</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
+			<h1 itemprop="name">Delayed or canceled flights</h1>
+			
+
+			<!-- Special Notices -->
+			
+						
+
+
+		
+	
+
+
+
+
+	
+	
+			<section>
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Our goal is to always depart on time, but on occasion weather and other events impact our schedule – and yours. We know your time is valuable, and we’ll do our best to get you back on track as soon as possible. If your flight is canceled or a delay causes you to miss your connection, we’ll rebook you on the next flight with available seats.</p>
+		
+			
+			
+			
+			<p>We will reroute your bags automatically when you check in for your new flights.</p>
+		
+			
+			
+			
+			<p>There are 3 ways to view your new trip or to choose a different flight:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+										
+											<ul class="list-basic">
+										
+										
+										
+										
+										
+									
+							
+					
+				
+				
+					
+							<li>Open the American app</li>
+						
+				
+					
+							<li>View or change your trip on aa.com</li>
+						
+				
+					
+							<li>Use a kiosk in the airport</li>
+						
+								
+				
+				
+						
+								</ul>
+							
+					
+			
+							
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			
+					
+							
+									<h2 id="openapp">Open the American app</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Once you log in, you can view trip changes or choose a different flight:</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+				
+													
+				
+													
+				
+													
+				
+				
+						
+								
+									<ol class="list-decimal">
+								
+								
+								
+								
+								
+							
+					
+				
+				
+					
+							<li>Click the banner on the home screen and review your trip.</li>
+						
+				
+					
+							<li>Select a new flight if needed.</li>
+						
+				
+					
+							<li>Check in to get your new boarding pass.</li>
+						
+								
+				
+				
+						
+								</ol>
+							
+					
+			
+							
+			
+	
+
+		
+			
+			
+			
+			<p>Set up push notifications to stay updated on flight status and get boarding reminders.</p>
+		
+			
+			
+			
+			<p>Don't have the app?</p>
+		
+		
+
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/travel-info/travel-tools/mobile-and-app.jsp" class="">
+										Mobile and app
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			
+					
+							
+									<h2 id="findtrip">Find your trip on aa.com</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>If your flight has changed, you’ll see your updated flight in ‘Your trips.’ You can accept what we’ve selected for you, or you can choose a new flight.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/reservation/findReservationAccess.do?anchorLocation=DirectURL&amp;title=flightchange" class="">
+										Find your trip
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			
+					
+							
+									<h2 id="usekiosk">Use a kiosk</h2>
+								
+						
+					
+				
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Scan your boarding pass or enter your confirmation code to see your updated trip details. From there you can also switch your flight and print your new boarding passes.</p>
+		
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+	
+	
+			<section>
+		
+		
+			
+
+			
+				
+					
+						
+						
+							
+							
+	
+	
+			
+					
+				
+		
+	
+			
+		
+
+	
+
+		
+			
+			
+			
+			<p>Please read our conditions of carriage for more information about delays, cancellations and diversions.</p>
+		
+		
+
+			
+	
+
+		
+		
+
+		
+			
+			
+
+			
+							
+			
+	
+
+		
+		
+			
+												
+						
+			
+			
+			
+					
+						
+					
+						
+						
+								<p>
+									<a href="/i18n/customer-service/support/conditions-of-carriage.jsp?anchorEvent=false&amp;from=footer?" class="">
+										Conditions of carriage
+										
+											<span class="call-to-action" aria-hidden="true"></span>
+										
+									</a>
+								</p>
+											
+					
+					
+				
+		
+
+			
+	
+	
+
+						
+					
+				
+
+				
+			
+				
+
+				
+
+				
+
+				
+			
+					
+		
+		
+	</section>
+
+
+			
+
+			<div class="back-to-top margin-top">                    
+			    <a href="#breadcrumb"><span class="icon-circle-up" aria-hidden="true"></span> Back to top</a>                    
+			</div>
+
+		|,|,|
+|
