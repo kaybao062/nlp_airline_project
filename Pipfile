@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-community = "*"
+langchain-openai = "*"
+langchain-experimental = "*"
+neo4j = "*"
+python-dotenv = "*"
+langchain-fireworks = "*"
+numpy = "*"
+pandas = "*"
+langchain-core = "*"
+langchain-google-vertexai = "*"
+tenacity = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

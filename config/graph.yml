@@ -1,0 +1,38 @@
+nodes:
+  - Accomodation
+  - Aircraft
+  - Airline
+  - Amenity
+  - Amenities
+  - Baggage
+  - Bed
+  - Beverage
+  - Cabin
+  - Communication
+  - Crew
+  - Drink
+  - Drinks
+  - Entertainment
+  - Entertainment system
+  - Experience
+  - Feature
+  - Flight
+  - Food
+  - Gate
+  - Luggage
+  - Meal
+  - Plane
+  - Review
+  - Seat
+  - Seats
+  - Service
+  - Services
+  - Staff
+  - Terminal
+  - Ticket
+  - Ticket class
+  - Toilets
+  - Wifi
+  - Vouchers
+relationships:
+  - REFUND_ACTION
