@@ -35,15 +35,20 @@ pipenv install --dev
 
 ## Usage
 
-Build index:
+### Build index
 
-`notebooks/kg-llamaindex/index-policies.ipynb`
+```bash
+pipenv run python scripts/build-policies-index.py policies_all
+```
 
-Query index:
+See [notebook](notebooks/kg-llamaindex/index-policies.ipynb) for reference.
+
+
+### Query index
 
 `notebooks/kg-llamaindex/query.ipynb`
 
-Chat with data:
+### Chat with data
 
 `notebooks/kg-llamaindex/chatbot.ipynb`
 
