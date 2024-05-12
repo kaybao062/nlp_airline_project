@@ -31,9 +31,15 @@ torch = "*"
 llama-index-graph-stores-nebula = "*"
 nebula3-python = "*"
 spacy = "*"
+llama-index-agent-openai = "*"
+python-slugify = "*"
+streamlit = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
 python_version = "3.11"
+
+[scripts]
+app = "streamlit run Home.py"
