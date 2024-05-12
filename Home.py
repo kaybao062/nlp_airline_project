@@ -26,7 +26,10 @@ logging.basicConfig(
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # load config:
-config = load_graph_config()
+config = load_graph_config(
+    index_name="policies_aa",
+    persist_dir="./data/index/policies/american_airlines/",
+)
 
 # @st.cache_resource
 def load_index(name: str):
@@ -41,12 +44,12 @@ def load_index(name: str):
     # Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
     # Settings.num_output = 512
     # Settings.context_window = 3900
-    config = load_graph_config(
+    # config = load_graph_config(
         # index_name=name,
         # persist_dir=f"./data/index/policies/{name}/",
-        index_name="policies_aa",
-        persist_dir="./data/index/policies/american_airlines/",
-    )
+        # index_name="policies_aa",
+        # persist_dir="./data/index/policies/american_airlines/",
+    # )
     return load_graph_index_from_config(config)
 
 
