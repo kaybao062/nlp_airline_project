@@ -1,11 +1,12 @@
 import os
 from functools import cache
+from time import sleep
 
 from dotenv import load_dotenv
 from nebula3.gclient.net import ConnectionPool
 from nebula3.Config import Config
 from nebula3.common import *
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 
 load_dotenv()
 
@@ -41,12 +42,15 @@ def query(query: str):
 
 
 def create_space(name: str):
-    return query(
+    query(f"CREATE SPACE {name}(vid_type=FIXED_STRING(256), partition_num=1, replica_factor=1);")
+    sleep(10)
+    query(
         f"""
-        CREATE SPACE {name}(vid_type=FIXED_STRING(256), partition_num=1, replica_factor=1);
         USE {name};
         CREATE TAG entity(name string);
         CREATE EDGE relationship(name string);
         CREATE TAG INDEX entity_index ON entity(name(256));
         """
     )
+    sleep(10)
+
