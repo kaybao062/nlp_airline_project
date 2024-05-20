@@ -1,6 +1,22 @@
-# Memo: Add dependencies here
+# Dependencies
+#!pip install -qU \
+    #openai==1.6.1 \
+    #pinecone-client==3.1.0 \
+    #langchain==0.1.1 \
+    #langchain-community==0.0.13 \
+    #tiktoken==0.5.2 \
+    #datasets==2.12.0
 
 import pandas as pd
+import os
+from getpass import getpass
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.vectorstores import Pinecone
+from langchain.chat_models import ChatOpenAI
+from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain.chains import RetrievalQA
+from langchain.agents import initialize_agent
+from pinecone import Pinecone
 
 # Load data
 data = pd.read_csv('cleaned_reviews.csv')
@@ -14,10 +30,6 @@ data['Airline'] = data['Airline'].fillna('')
 data['Review Title'] = data['Review Title'].fillna('')
 data['Review Content'] = data['Review Content'].fillna('')
 
-import os
-from getpass import getpass
-from langchain.embeddings.openai import OpenAIEmbeddings
-
 # get API key from top-right dropdown on OpenAI website
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or getpass("Enter your OpenAI API key: ")
 model_name = 'text-embedding-ada-002'
@@ -26,8 +38,6 @@ embed = OpenAIEmbeddings(
     model=model_name,
     openai_api_key=OPENAI_API_KEY
 )
-
-from pinecone import Pinecone
 
 # initialize connection to pinecone (get API key at app.pinecone.io)
 api_key = os.getenv("PINECONE_API_KEY") or getpass("Enter your Pinecone API key: ")
@@ -93,8 +103,6 @@ for i in tqdm(range(0, len(data), batch_size)):
     # add everything to pinecone
     index.upsert(vectors=zip(ids, embeds, metadatas))
 
-from langchain.vectorstores import Pinecone
-
 text_field = "Review Content"  # the metadata field that contains our text
 
 # initialize the vector store object
@@ -108,10 +116,6 @@ vectorstore.similarity_search(
     query,  # our search query
     k=3  # return 3 most relevant docs
 )
-
-from langchain.chat_models import ChatOpenAI
-from langchain.chains.conversation.memory import ConversationBufferWindowMemory
-from langchain.chains import RetrievalQA
 
 # chat completion llm
 llm = ChatOpenAI(
@@ -146,8 +150,6 @@ tools = [
         )
     )
 ]
-
-from langchain.agents import initialize_agent
 
 agent = initialize_agent(
     agent='chat-conversational-react-description',
