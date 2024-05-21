@@ -9,6 +9,7 @@ from llama_index.agent.openai import OpenAIAgent
 from llama_index.core.settings import Settings
 from llama_index.core.text_splitter import SentenceSplitter
 from llama_index.core.tools import (
+    FunctionTool,
     QueryEngineTool,
     ToolMetadata,
 )
@@ -18,12 +19,13 @@ from llama_index.core.vector_stores import (
     FilterOperator,
 )
 from llama_index.llms.openai import OpenAI
-
-
+from pydantic import Field
+from slugify import slugify
 
 from config import load_graph_config
+from util.dataset import load_policies
 from util.graph import load_graph_index_from_config
-from util.graph import load_graph_query_engine
+from util.multi_tenant import extract_tenants
 from util.vector import load_vector_index
 
 # prepare environment:
@@ -37,7 +39,11 @@ logging.basicConfig(
 
 # prepare model:
 openai.api_key = os.environ["OPENAI_API_KEY"]
-Settings.llm = OpenAI(model="gpt-3.5-turbo")
+Settings.llm = OpenAI(
+    model="gpt-3.5-turbo",
+    temperature=0,
+    num_beams=2,
+)
 Settings.chunk_size = 256
 Settings.node_parser = SentenceSplitter(
     chunk_size=200,
@@ -53,62 +59,87 @@ Settings.node_parser = SentenceSplitter(
 def load_graph_index(name: str):
     config = load_graph_config(
         index_name=name,
-        persist_dir=f"./data/index/policies/{name}/",
+        persist_dir=f"./data/index/policies-sgs-2/{name}/",
     )
     return load_graph_index_from_config(config)
 
 
-def load_agent():
-    tools = []
+def load_tenants():
+    documents = load_policies()
+    airlines = extract_tenants(documents, tenant_key="airline")
+    return airlines
 
-    # load policy tools:
-    tools += [
-        QueryEngineTool(
-            query_engine=load_graph_index("american_airlines").as_query_engine(),
-            metadata=ToolMetadata(
-                name="american_airlines_policies",
-                description=(
-                    "Provides information about American Airlines policies. "
-                    "Useful for answering questions about restricted items, checked bags, mishandled bags, "
-                    "special notices, delayed bags, delayed or cancelled trips, refunds, what you can fly with, excess baggage guidelines, "
-                    "terms and conditions, oversized or bulky baggage, partner airlines, receipts, and all other policy questions related to American Airlines. "
-                    "Use a detailed plain text question as input to the tool."
-                ),
-            ),
-        ),
-    ]
+
+def plot_airline_trends(airline: str):
+    """Useful for understanding consumer sentiment on airlines over time."""
+    return st.markdown(f"Plot {airline} trends!!!")
+
+
+def load_agent():
+    airlines = ["American Airlines"]  # load_tenants()
+    tools = []
 
     # load review tools:
     review_index = load_vector_index()
-    tools += [
-        QueryEngineTool(
-            query_engine=review_index.as_query_engine(
-                filter=MetadataFilters(
-                    filters=[
-                        MetadataFilter(
-                            key="Airline",
-                            value="American Airlines",
-                        )
-                    ]
-                )
-            ),
-            metadata=ToolMetadata(
-                name="american_airlines_reviews",
-                description=(
-                    "Provides summaries about consumer reports, customer reviews and sentiment toward American Airlines. "
-                    "Useful for answering questions about seat comfort, crew staff service, food and beverage, inflight entertainment, "
-                    "value for money, and overall ratings. "
-                    "Use a detailed plain text question as input to the tool."
+
+    # create tools for each airline:
+    for airline in airlines:
+        airline_key = slugify(airline, separator="_")
+        logging.info(f"Creating tools for {airline}")
+
+        # load policy tools:
+        tools += [
+            QueryEngineTool(
+                query_engine=load_graph_index(airline_key).as_query_engine(),
+                metadata=ToolMetadata(
+                    name=f"{airline_key}_policies",
+                    description=(
+                        f"Provides information about {airline} policies. "
+                        "Useful for answering questions about restricted items, checked bags, mishandled bags, "
+                        "special notices, delayed bags, delayed or cancelled trips, refunds, what you can fly with, excess baggage guidelines, "
+                        f"terms and conditions, oversized or bulky baggage, partner airlines, receipts, and all other policy questions related to {airline}. "
+                        "Use a detailed plain text question as input to the tool."
+                    ),
                 ),
             ),
-        )
-    ]
+        ]
+
+        # reviews:
+        tools += [
+            QueryEngineTool(
+                query_engine=review_index.as_query_engine(
+                    filter=MetadataFilters(
+                        filters=[
+                            MetadataFilter(
+                                key="Airline",
+                                value=airline,
+                            )
+                        ]
+                    )
+                ),
+                metadata=ToolMetadata(
+                    name=f"{airline_key}_reviews",
+                    description=(
+                        f"Provides summaries about consumer reports, customer reviews and sentiment toward {airline}. "
+                        "Useful for answering questions about seat comfort, crew staff service, food and beverage, inflight entertainment, "
+                        "value for money, and overall ratings. "
+                        "Use a detailed plain text question as input to the tool."
+                    ),
+                ),
+            )
+        ]
+
+        # charting:
+        tools += [
+            FunctionTool.from_defaults(plot_airline_trends),
+        ]
 
     # give agent tools:
     agent = OpenAIAgent.from_tools(
         tools=tools,
         verbose=True,
-        system_prompt="Be as thorough as possible in your answer.",
+        # the following system prompt makes it lie sadly
+        # system_prompt="Without using your prior knowledge, and only using the given context, answer the question while being as thorough as possible.",
     )
     return agent
 

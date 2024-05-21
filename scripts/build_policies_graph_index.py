@@ -53,4 +53,3 @@ if __name__ == "__main__":
         build_index_fn=build_graph_index,
     )
     print("Done!")
-~
