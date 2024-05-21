@@ -39,25 +39,8 @@ logging.basicConfig(
     level=logging.DEBUG,
 )
 
-# prepare model:
-openai.api_key = os.environ["OPENAI_API_KEY"]
-Settings.llm = OpenAI(
-    model="gpt-3.5-turbo",
-    temperature=0,
-    num_beams=2,
-)
-Settings.chunk_size = 256
-Settings.node_parser = SentenceSplitter(
-    chunk_size=200,
-    chunk_overlap=20,
-    paragraph_separator="\n\n"
-)
-# Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
-# Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
-# Settings.num_output = 512
-# Settings.context_window = 3900
 
-# @st.cache_resource
+@st.cache_resource
 def load_graph_index(name: str):
     config = load_graph_config(
         index_name=name,
@@ -78,7 +61,43 @@ def plot_airline_trends(airline: str):
 
 
 @st.cache_resource
+def load_chat_memory(user: str):
+    # add memory:
+    chat_store = SimpleChatStore()
+    memory = ChatMemoryBuffer.from_defaults(
+        token_limit=3000,
+        chat_store=chat_store,
+        chat_store_key=user,
+    )
+    return memory
+
+
+@st.cache_resource
 def load_agent():
+    # prepare model:
+    openai.api_key = os.environ["OPENAI_API_KEY"]
+    Settings.llm = OpenAI(
+        model="gpt-3.5-turbo",
+        temperature=0,
+        # num_beams=4,
+        # additional_kwargs={
+        #    "extra_body": {
+        #        "use_beam_search": True,
+        #        "best_of": 3,
+        #    }
+        # }
+    )
+    Settings.chunk_size = 256
+    Settings.node_parser = SentenceSplitter(
+        chunk_size=200,
+        chunk_overlap=20,
+        paragraph_separator="\n\n"
+    )
+    # Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
+    # Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
+    # Settings.num_output = 512
+    # Settings.context_window = 3900
+
     # airlines = ["American Airlines"]
     airlines = load_tenants()
     tools = []
@@ -94,7 +113,9 @@ def load_agent():
         # load policy tools:
         tools += [
             QueryEngineTool(
-                query_engine=load_graph_index(airline_key).as_query_engine(),
+                query_engine=load_graph_index(airline_key).as_query_engine(
+                    response_mode="tree_summarize",
+                ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_policies",
                     description=(
@@ -138,17 +159,10 @@ def load_agent():
         FunctionTool.from_defaults(plot_airline_trends),
     ]
 
-    # add memory:
-    chat_store = SimpleChatStore()
-    memory = ChatMemoryBuffer.from_defaults(
-        token_limit=3000,
-        chat_store=chat_store,
-        chat_store_key="user",
-    )
 
     # give agent tools:
     agent = OpenAIAgent.from_tools(
-        memory=memory,
+        memory=load_chat_memory("user"),
         tools=tools,
         verbose=True,
         # the following system prompt makes it lie sadly
@@ -189,16 +203,27 @@ if prompt := st.chat_input("Your question"): # Prompt for user input and save to
     st.session_state.messages.append({"role": "user", "content": prompt})
 
 for message in st.session_state.messages: # Display the prior chat messages
-    with st.chat_message(message["role"], avatar="🧑‍✈️"):
-        st.write(message["content"].replace("$", "\$"))
+    avatar = {
+        "assistant": "🧑‍✈️",
+        "user": "✈️",
+    }
+    with st.chat_message(message["role"], avatar=avatar[message["role"]]):
+        st.markdown(message["content"].replace("$", "\$"))
 
 # 3.6. Pass query to chat engine and display response:
 # If last message is not from assistant, generate a new response
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant", avatar="🧑‍✈️"):
         with st.spinner("Thinking..."):
-            response = agent.chat(prompt)
-            logging.info(response)
-            st.markdown(response.response.replace("$", "\$"))
-            message = {"role": "assistant", "content": response.response}
-            st.session_state.messages.append(message) # Add response to message history
+            try:
+                response = agent.chat(prompt)
+                logging.info(response)
+                st.markdown(response.response.replace("$", "\$"))
+                # Add response to message history
+                message = {"role": "assistant", "content": response.response}
+            except ValueError as err:
+                logging.error(err)
+                # Add response to message history
+                st.markdown("We couldn't find that one...")
+                message = {"role": "assistant", "content": "We don't know!"}
+            st.session_state.messages.append(message)
