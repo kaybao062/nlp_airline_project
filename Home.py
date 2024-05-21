@@ -6,7 +6,9 @@ import openai
 import streamlit as st
 from dotenv import load_dotenv
 from llama_index.agent.openai import OpenAIAgent
+from llama_index.core.memory import ChatMemoryBuffer
 from llama_index.core.settings import Settings
+from llama_index.core.storage.chat_store import SimpleChatStore
 from llama_index.core.text_splitter import SentenceSplitter
 from llama_index.core.tools import (
     FunctionTool,
@@ -75,8 +77,10 @@ def plot_airline_trends(airline: str):
     return st.markdown(f"Plot {airline} trends!!!")
 
 
+@st.cache_resource
 def load_agent():
-    airlines = ["American Airlines"]  # load_tenants()
+    # airlines = ["American Airlines"]
+    airlines = load_tenants()
     tools = []
 
     # load review tools:
@@ -129,17 +133,28 @@ def load_agent():
             )
         ]
 
-        # charting:
-        tools += [
-            FunctionTool.from_defaults(plot_airline_trends),
-        ]
+    # charting tools:
+    tools += [
+        FunctionTool.from_defaults(plot_airline_trends),
+    ]
+
+    # add memory:
+    chat_store = SimpleChatStore()
+    memory = ChatMemoryBuffer.from_defaults(
+        token_limit=3000,
+        chat_store=chat_store,
+        chat_store_key="user",
+    )
 
     # give agent tools:
     agent = OpenAIAgent.from_tools(
+        memory=memory,
         tools=tools,
         verbose=True,
         # the following system prompt makes it lie sadly
         # system_prompt="Without using your prior knowledge, and only using the given context, answer the question while being as thorough as possible.",
+        # more parameters: https://docs.llamaindex.ai/en/stable/api_reference/agent/openai/#llama_index.agent.openai.OpenAIAgent.from_tools
+        # callback_manager = None
     )
     return agent
 
