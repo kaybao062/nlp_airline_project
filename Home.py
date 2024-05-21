@@ -23,7 +23,7 @@ from pydantic import Field
 from slugify import slugify
 
 from config import load_graph_config
-from util.dataset import load_policies
+from util.dataset import load_policies, load_trend_data
 from util.graph import load_graph_index_from_config
 from util.multi_tenant import extract_tenants
 from util.vector import load_vector_index
@@ -72,6 +72,10 @@ def load_tenants():
 
 def plot_airline_trends(airline: str):
     """Useful for understanding consumer sentiment on airlines over time."""
+    ## How to let plot a certain aspect?
+    trend_df = load_trend_data()
+    chart_data = trend_df[trend_df['Airline'] == airline]
+    st.line_chart(chart_data, x = 'Year', y = 'Overall Rating')
     return st.markdown(f"Plot {airline} trends!!!")
 
 

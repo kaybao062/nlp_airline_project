@@ -33,3 +33,8 @@ def load_policies(
         for idx, row in df.iterrows()
     ]
     return documents
+
+
+def load_trend_data():
+    df = pd.read_csv('data/clean/airline_trend.csv')
+    return df
