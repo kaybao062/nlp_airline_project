@@ -103,7 +103,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     ## How to let plot a certain aspect?
     if aspect:
         chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Category'] == aspect)]
-        height = 100
+        height = 200
     else:
         chart_data = rate_df[rate_df['Airline'] == airline]
         height = 400
@@ -307,8 +307,8 @@ def load_agent():
                             )
                         ],
                     ),
-                    # hybrid_top_k=10,
-                    # similarity_top_k=10,
+                    hybrid_top_k=5,
+                    similarity_top_k=5,
                 ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_reviews",
