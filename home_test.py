@@ -119,16 +119,17 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
 ))
     
     st.altair_chart(c, use_container_width=True)
-    st.dataframe(chart_data)
+    # st.dataframe(chart_data)
     return st.markdown(f"Plot {airline} rate chart!!!")
 
-def describe_airline_aspects(airline: str):
-    """Useful for answering questions about consumer sentiment on an
-    airline about a specific aspect, such as seat comfort, staff service,
-    food and beverage, inflight entertainment, value for money, and overall ratings. 
+def inquire_about_airline_sentiment(airline: str):
+    """Useful for answering questions about consumer sentiment toward a 
+    specific airline. Includes ratings for all of the airline's aspects
+    such as seat comfort, staff service, food and beverage, inflight entertainment, 
+    value for money, and overall ratings. 
     """
     # plot = st.markdown(f"{airline=}")
-    # The chart displayed here
+    # The chart displayed here: 1 airline multiple aspects
     plot_airline_rate(airline)
     # The text displayed here
     review_index = load_review_index()
@@ -148,10 +149,10 @@ def describe_airline_aspects(airline: str):
     return st.markdown(response)
 
 
-def describe_airline_by_aspect_over_time(airline: str, aspect: AspectEnum):
+def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
     """Useful for understanding consumer sentiment on airlines over time."""
     # plot = st.markdown(f"{airline=} {aspect=}")
-    # The chart displayed here
+    # The chart displayed here: 1 airline 1 aspect trend
     plot_airline_trends(airline, aspect)
     # The text displayed here
     review_index = load_review_index()
@@ -177,9 +178,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     food and beverage, inflight entertainment, value for money, and overall ratings. 
     """
     # plot = st.markdown(f"{aspect=}")
-    # The chart displayed here
-    plot_airline_rate(aspect)
-    # The text displayed here
+
     review_index = load_review_index()
     response = review_index.as_query_engine().query(
         f"Compare airlines by {aspect}. Be as thorough as possible."
@@ -187,10 +186,11 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     chart_airlines = []
     for node in response.source_nodes:
         chart_airlines.append(node.metadata["Airline"])
-    return response
-    # The chart displayed here
-    plot_airline_rate(aspect)
-    # The text displayed here
+
+    # The chart displayed here: multiple airline 1 aspect rate
+    for airline in chart_airlines:
+            plot_airline_rate(airline, aspect)
+            # The text displayed here
 
     return st.markdown(response)
 
@@ -213,8 +213,12 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
         )
     )
     response = query_engine.query(
-        f"Tell me about {aspect} on {airline}. Be as thorough as possible."
+        f"Tell me only about {aspect} on {airline}. Include only this aspect and be as thorough as possible."
     )
+
+    # The chart displayed here: 1 airline 1 aspect rate
+    plot_airline_rate(airline, aspect)
+    # The text displayed here
 
     return st.markdown(response)
 
@@ -259,8 +263,8 @@ def load_agent():
     # Settings.num_output = 512
     # Settings.context_window = 3900
 
-    airlines = ["American Airlines"]
-    # airlines = load_tenants()
+    # airlines = ["American Airlines"]
+    airlines = load_tenants()
     tools = []
 
     # load review tools:
@@ -333,10 +337,10 @@ def load_agent():
         # ]
         tools += [
             # FunctionTool.from_defaults(plot_airline_trends),
+            FunctionTool.from_defaults(inquire_about_airline_sentiment),
             FunctionTool.from_defaults(inquire_about_aspect_on_airline),
             FunctionTool.from_defaults(compare_airlines_by_aspect),
-            FunctionTool.from_defaults(describe_airline_aspects),
-            FunctionTool.from_defaults(describe_airline_by_aspect_over_time),
+            FunctionTool.from_defaults(describe_airline_sentiment_over_time),
         ]
 
     # give agent tools:
@@ -348,6 +352,7 @@ def load_agent():
         # system_prompt="Without using your prior knowledge, and only using the given context, answer the question while being as thorough as possible.",
         # more parameters: https://docs.llamaindex.ai/en/stable/api_reference/agent/openai/#llama_index.agent.openai.OpenAIAgent.from_tools
         # callback_manager = None
+        max_function_calls=1,
     )
     return agent
 
