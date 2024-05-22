@@ -102,7 +102,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     """Useful for understanding consumer sentiment on airlines over time."""
     ## How to let plot a certain aspect?
     if aspect:
-        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Rating Type'] == aspect)]
+        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Category'] == aspect)]
     else:
         chart_data = rate_df[rate_df['Airline'] == airline]
     
@@ -125,8 +125,8 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
             color=alt.Color("Rating Type:N").title("Rating").scale(color_scale)
             )
         .properties(
-            width=600,
-            height=400,
+            #width=600,
+            #height=400,
             title='Passenger Rating the Airline'
 ))
     st.altair_chart(c, use_container_width=True)
