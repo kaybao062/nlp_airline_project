@@ -102,7 +102,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     """Useful for understanding consumer sentiment on airlines over time."""
     ## How to let plot a certain aspect?
     if aspect:
-        chart_data = rate_df[(rate_df['Airline'] == airline) & (trend_df['Rate Type'] == aspect)]
+        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Rating Type'] == aspect)]
     else:
         chart_data = rate_df[rate_df['Airline'] == airline]
     
@@ -129,7 +129,6 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
             height=400,
             title='Passenger Rating the Airline'
 ))
-    
     st.altair_chart(c, use_container_width=True)
 
 
@@ -139,7 +138,7 @@ def inquire_about_airline_sentiment(airline: str):
     such as seat comfort, staff service, food and beverage, inflight entertainment, 
     value for money, and overall ratings. 
     """
-    # st.write(f"describe_airlines_aspect: {airline=}")
+    st.write(f"describe_airlines_aspect: {airline=}")
     # The chart displayed here: 1 airline multiple aspects
     plot_airline_rate(airline)
     # The text displayed here
@@ -168,7 +167,7 @@ def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
     # The chart displayed here: 1 airline 1 aspect trend
     plot_airline_trends(airline, aspect)
     # The text displayed here
-    # st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
+    st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -215,7 +214,7 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     airline about a specific aspect, such as seat comfort, staff service,
     food and beverage, inflight entertainment, value for money, and overall ratings. 
     """
-    # st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
+    st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -226,8 +225,8 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
                 )
             ]
         ),
-        hybrid_top_k=10,
-        similarity_top_k=10,
+        # hybrid_top_k=10,
+        # similarity_top_k=10,
     )
     response = query_engine.query(
         f"Tell me about {aspect} on {airline}. Describe only this aspect and be as thorough as possible."
@@ -237,7 +236,7 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     return response
 
 
-@st.cache_resource
+# @st.cache_resource
 def load_agent():
     # prepare model:
     openai.api_key = os.environ["OPENAI_API_KEY"]
@@ -281,7 +280,7 @@ def load_agent():
                 query_engine=load_graph_index(airline_key).as_query_engine(
                     response_mode="tree_summarize",
                     # hybrid_top_k=10,
-                    similarity_top_k=5,
+                    # similarity_top_k=5,
                 ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_policies",
@@ -308,8 +307,8 @@ def load_agent():
                             )
                         ],
                     ),
-                    hybrid_top_k=10,
-                    similarity_top_k=10,
+                    # hybrid_top_k=10,
+                    # similarity_top_k=10,
                 ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_reviews",
