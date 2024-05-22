@@ -59,8 +59,8 @@ class AspectEnum(Enum):
 def load_graph_index(name: str):
     config = load_graph_config(
         index_name=name,
-        persist_dir=f"./data/index/policies_aa/policies-sgs-2/{name}/",
-        # persist_dir=f"./data/index/policies-sgs-2/{name}/",
+        # persist_dir=f"./data/index/policies_aa/policies-sgs-2/{name}/",
+        persist_dir=f"./data/index/policies-sgs-2/{name}/",
     )
     return load_graph_index_from_config(config)
 
@@ -138,6 +138,39 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     st.altair_chart(c, use_container_width=True)
 
 
+def plot_compare_airline_rate(aspect: AspectEnum = None, airlines: list = []):
+    """Useful for understanding consumer sentiment on airlines over time."""
+    ## How to let plot a certain aspect?
+    chart_data = rate_df[(rate_df['Category'] == aspect)][rate_df['Airline'].isin(airlines)]
+    height = 400
+    title = f"Passenger Rating of {aspect}"
+    
+    color_scale = alt.Scale(
+    domain=[
+        "Poor",
+        "Not good",
+        "Neutral",
+        "Good" ,
+        "Very Good" 
+    ],
+    range=["#c30d24", "#f3a583", "#cccccc", "#94c6da", "#1770ab"],
+)
+    c = (alt.Chart(chart_data)
+        .mark_bar()
+        .encode(
+            x=alt.X("percentage_start:Q"),
+            x2="percentage_end:Q",
+            y=alt.Y("Airline:N").axis(alt.Axis(title="Rating", offset=5, ticks=False, minExtent=60, domain=False)),
+            color=alt.Color("Rating Type:N").title("Rating").scale(color_scale)
+        )
+        .properties(
+            width=600,
+            height=height,
+            title=title,
+))
+    st.altair_chart(c, use_container_width=True)
+
+
 def inquire_about_airline(airline: str):
     """Useful for answering questions about an airline. Particularly helpful
     for summarizing consumer sentiment toward a specific airline.
@@ -196,7 +229,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     specific aspect, such as seat comfort, staff service, food and beverage,
     inflight entertainment, value for money, and overall ratings. 
     """
-    st.write(f"compare_airlines_by_aspect: {aspect=}")
+    # st.write(f"compare_airlines_by_aspect: {aspect=}")
     review_index = load_review_index()
     response = review_index.as_query_engine(
         hybrid_top_k=10,
@@ -210,7 +243,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     chart_airlines = list(set(chart_airlines))
     # The chart displayed here: multiple airline 1 aspect rate
     # st.subheader(f'Plot for {aspect} of {chart_airlines[0]}')
-    plot_airline_rate(chart_airlines[0], aspect)
+    plot_compare_airline_rate(aspect, airlines=chart_airlines)
     return response
 
 
