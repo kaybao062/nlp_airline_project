@@ -19,7 +19,7 @@ from langchain.agents import initialize_agent
 from pinecone import Pinecone
 
 # Load data
-data = pd.read_csv('cleaned_reviews.csv')
+data = pd.read_csv('data/clean/cleaned_reviews.csv')
 print(data.head())
 
 data = data.reset_index().rename(columns={'index': 'id'})

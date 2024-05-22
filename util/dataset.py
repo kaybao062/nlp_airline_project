@@ -35,6 +35,18 @@ def load_policies(
     return documents
 
 
+# def load_trend_data():
+#     df = pd.read_csv('data/clean/airline_trend.csv')
+#     return df
+
 def load_trend_data():
     df = pd.read_csv('data/clean/airline_trend.csv')
+    return df
+
+def load_rate_data():
+    df = pd.read_csv('data/clean/likert_data.csv')
+    df['Count'] = df['Count'].astype(int)
+    df['percentage'] = df['percentage'].astype(float)
+    df['percentage_start'] = df['percentage_start'].astype(float)
+    df['percentage_end'] = df['percentage_end'].astype(float)
     return df
