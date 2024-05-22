@@ -64,7 +64,7 @@ def load_graph_index(name: str):
     return load_graph_index_from_config(config)
 
 
-# @st.cache_resource
+@st.cache_resource
 def load_review_index():
     return load_vector_index()
 
@@ -236,7 +236,7 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     return response
 
 
-# @st.cache_resource
+@st.cache_resource
 def load_agent():
     # prepare model:
     openai.api_key = os.environ["OPENAI_API_KEY"]
