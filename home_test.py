@@ -58,19 +58,23 @@ class AspectEnum(Enum):
 def load_graph_index(name: str):
     config = load_graph_config(
         index_name=name,
-        persist_dir=f"./data/index/policies_aa/policies-sgs-2/{name}/",
+        # persist_dir=f"./data/index/policies_aa/policies-sgs-2/{name}/",
+        persist_dir=f"./data/index/policies-sgs-2/{name}/",
         
     )
     return load_graph_index_from_config(config)
+
 
 @st.cache_resource
 def load_review_index():
     return load_vector_index()
 
+
 def load_tenants():
     documents = load_policies()
     airlines = extract_tenants(documents, tenant_key="airline")
     return airlines
+
 
 # 6 funcs
 def plot_airline_trends(airline: str = None, aspect: AspectEnum = None):
@@ -121,6 +125,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     st.altair_chart(c, use_container_width=True)
     # st.dataframe(chart_data)
     return st.markdown(f"Plot {airline} rate chart!!!")
+
 
 def inquire_about_airline_sentiment(airline: str):
     """Useful for answering questions about consumer sentiment toward a 
@@ -189,9 +194,8 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
 
     # The chart displayed here: multiple airline 1 aspect rate
     for airline in chart_airlines:
-            plot_airline_rate(airline, aspect)
-            # The text displayed here
-
+        plot_airline_rate(airline, aspect)
+        # The text displayed here
     return st.markdown(response)
 
 
@@ -219,10 +223,7 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     # The chart displayed here: 1 airline 1 aspect rate
     plot_airline_rate(airline, aspect)
     # The text displayed here
-
     return st.markdown(response)
-
-
 
 
 @st.cache_resource

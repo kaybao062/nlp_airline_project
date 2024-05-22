@@ -102,9 +102,10 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     """Useful for understanding consumer sentiment on airlines over time."""
     ## How to let plot a certain aspect?
     if aspect:
-        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Category'] == aspect)]
+        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Rating Type'] == aspect)]
     else:
         chart_data = rate_df[rate_df['Airline'] == airline]
+        height = 400
     
     color_scale = alt.Scale(
     domain=[
@@ -126,7 +127,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
             )
         .properties(
             width=600,
-            height=400,
+            height=height,
             title='Passenger Rating the Airline'
 ))
     st.altair_chart(c, use_container_width=True)
@@ -211,7 +212,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
 def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     """Useful for answering questions about consumer sentiment on an
     airline about a specific aspect, such as seat comfort, staff service,
-    food and beverage, inflight entertainment, value for money, and overall ratings. 
+    food and beverage, inflight entertainment, value for money. 
     """
     st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
     review_index = load_review_index()
@@ -261,8 +262,8 @@ def load_agent():
     # Settings.num_output = 512
     # Settings.context_window = 3900
 
-    # airlines = ["American Airlines"]
-    airlines = load_tenants()
+    airlines = ["American Airlines"]
+    # airlines = load_tenants()
     tools = []
 
     # load review tools:
