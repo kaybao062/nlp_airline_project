@@ -1,6 +1,7 @@
 import logging
 import os
 import sys
+from enum import Enum
 
 import openai
 import streamlit as st
@@ -40,6 +41,15 @@ logging.basicConfig(
 )
 
 
+class AspectEnum(Enum):
+    SEAT_COMFORT = 'seat comfort'
+    STAFF_SERVICE = 'staff service'
+    FOOD_BEVERAGE = 'food and beverage'
+    INFLIGHT_ENTERTAINMENT = 'inflight entertainment'
+    VALUE_FOR_MONEY = 'value for money'
+    OVERALL_RATINGS = 'overall ratings'   
+
+
 @st.cache_resource
 def load_graph_index(name: str):
     config = load_graph_config(
@@ -47,6 +57,11 @@ def load_graph_index(name: str):
         persist_dir=f"./data/index/policies-sgs-2/{name}/",
     )
     return load_graph_index_from_config(config)
+
+
+# @st.cache_resource
+def load_review_index():
+    return load_vector_index()
 
 
 def load_tenants():
@@ -61,7 +76,7 @@ def plot_airline_trends(airline: str):
     trend_df = load_trend_data()
     chart_data = trend_df[trend_df['Airline'] == airline]
     st.line_chart(chart_data, x = 'Year', y = 'Overall Rating')
-    return st.markdown(f"Plot {airline} trends!!!")
+    return "Plot {airline} trends!!!"
 
 
 @st.cache_resource
@@ -74,6 +89,92 @@ def load_chat_memory(user: str):
         chat_store_key=user,
     )
     return memory
+
+
+def inquire_about_airline_sentiment(airline: str):
+    """Useful for answering questions about consumer sentiment toward a 
+    specific airline. Includes ratings for all of the airline's aspects
+    such as seat comfort, staff service, food and beverage, inflight entertainment, 
+    value for money, and overall ratings. 
+    """
+    st.write(f"describe_airlines_aspect: {airline=}")
+    review_index = load_review_index()
+    query_engine = review_index.as_query_engine(
+        filter=MetadataFilters(
+            filters=[
+                MetadataFilter(
+                    key="Airline",
+                    value=airline,
+                )
+            ]
+        )
+    )
+    response = query_engine.query(
+        f"Tell me about {airline}. Be as thorough as possible."
+    )
+    return response
+
+
+def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
+    """Useful for understanding consumer sentiment on airlines over time."""
+    st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
+    review_index = load_review_index()
+    query_engine = review_index.as_query_engine(
+        filter=MetadataFilters(
+            filters=[
+                MetadataFilter(
+                    key="Airline",
+                    value=airline,
+                )
+            ]
+        )
+    )
+    response = query_engine.query(
+        f"Tell me about {aspect} on {airline}. Be as thorough as possible."
+    )
+    return response
+
+
+def compare_airlines_by_aspect(aspect: AspectEnum):
+    """Useful for answering questions about comparing airlines by a
+    specific aspect, such as seat comfort, staff service, food and beverage,
+    inflight entertainment, value for money, and overall ratings. 
+    """
+    st.write(f"compaire_airlines_by_aspect: {aspect=}")
+    review_index = load_review_index()
+    response = review_index.as_query_engine(
+        hybrid_top_k=10,
+        similarity_top_k=10,
+    ).query(
+        f"Compare airlines by {aspect}. Be as thorough as possible."
+    )
+    chart_airlines = []
+    for node in response.source_nodes:
+        chart_airlines.append(node.metadata["Airline"])
+    return response
+
+
+def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
+    """Useful for answering questions about consumer sentiment on an
+    airline about a specific aspect, such as seat comfort, staff service,
+    food and beverage, inflight entertainment, value for money, and overall ratings. 
+    """
+    st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
+    review_index = load_review_index()
+    query_engine = review_index.as_query_engine(
+        filter=MetadataFilters(
+            filters=[
+                MetadataFilter(
+                    key="Airline",
+                    value=airline,
+                )
+            ]
+        )
+    )
+    response = query_engine.query(
+        f"Tell me about {aspect} on {airline}. Be as thorough as possible."
+    )
+    return response
 
 
 @st.cache_resource
@@ -150,17 +251,17 @@ def load_agent():
                     name=f"{airline_key}_reviews",
                     description=(
                         f"Provides summaries about consumer reports, customer reviews and sentiment toward {airline}. "
-                        "Useful for answering questions about seat comfort, crew staff service, food and beverage, inflight entertainment, "
-                        "value for money, and overall ratings. "
                         "Use a detailed plain text question as input to the tool."
                     ),
                 ),
             )
         ]
 
-    # charting tools:
     tools += [
-        FunctionTool.from_defaults(plot_airline_trends),
+        FunctionTool.from_defaults(inquire_about_airline_sentiment),
+        FunctionTool.from_defaults(inquire_about_aspect_on_airline),
+        FunctionTool.from_defaults(compare_airlines_by_aspect),
+        FunctionTool.from_defaults(describe_airline_sentiment_over_time),
     ]
 
 
@@ -173,6 +274,7 @@ def load_agent():
         # system_prompt="Without using your prior knowledge, and only using the given context, answer the question while being as thorough as possible.",
         # more parameters: https://docs.llamaindex.ai/en/stable/api_reference/agent/openai/#llama_index.agent.openai.OpenAIAgent.from_tools
         # callback_manager = None
+        max_function_calls=1,
     )
     return agent
 
