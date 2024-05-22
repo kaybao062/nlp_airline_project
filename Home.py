@@ -215,8 +215,8 @@ def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
                 )
             ]
         ),
-        hybrid_top_k=10,
-        similarity_top_k=10,
+        hybrid_top_k=5,
+        similarity_top_k=5,
     )
     response = query_engine.query(
         f"Tell me about {aspect} on {airline}. Be as thorough as possible."
@@ -300,8 +300,8 @@ def load_agent():
     # Settings.num_output = 512
     # Settings.context_window = 3900
 
-    airlines = ["American Airlines", "Air France", "Delta Air lines"]
-    # airlines = load_tenants()
+    # airlines = ["American Airlines", "Air France", "Delta Air lines"]
+    airlines = load_tenants()
     tools = []
 
     # load review tools:
@@ -345,7 +345,7 @@ def load_agent():
                             )
                         ],
                     ),
-                    hybrid_top_k=5,
+                    # hybrid_top_k=5,
                     similarity_top_k=5,
                 ),
                 metadata=ToolMetadata(
