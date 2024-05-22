@@ -59,7 +59,7 @@ class AspectEnum(Enum):
 def load_graph_index(name: str):
     config = load_graph_config(
         index_name=name,
-        persist_dir=f"./data/index/policies-sgs-2/{name}/",
+        persist_dir=f"./data/index/policies_aa/policies-sgs-2/{name}/",
     )
     return load_graph_index_from_config(config)
 
@@ -102,7 +102,7 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     """Useful for understanding consumer sentiment on airlines over time."""
     ## How to let plot a certain aspect?
     if aspect:
-        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Rating Type'] == aspect)]
+        chart_data = rate_df[(rate_df['Airline'] == airline) & (rate_df['Category'] == aspect)]
     else:
         chart_data = rate_df[rate_df['Airline'] == airline]
     
@@ -203,6 +203,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
         chart_airlines.append(node.metadata["Airline"])
     chart_airlines = list(set(chart_airlines))
     # The chart displayed here: multiple airline 1 aspect rate
+    st.subheader(f'Plot for {aspect} of {chart_airlines[0]}')
     plot_airline_rate(chart_airlines[0], aspect)
     return response
 
@@ -342,8 +343,8 @@ def load_agent():
 
 
 # initialize page:
-st.header("Chat with the Airlines 💬 ✈️")
-
+st.set_page_config(layout="centered")
+st.header("Chat with our bot 💬 ✈️")
 # initialize message history:
 if "messages" not in st.session_state.keys(): # Initialize the chat message history
     st.session_state.messages = [{
@@ -351,6 +352,9 @@ if "messages" not in st.session_state.keys(): # Initialize the chat message hist
         "content": "Ask me a question about Airline travel!"
     }]
 
+st.sidebar.title("Ask about airlines")
+st.sidebar.markdown('Our chatbot knows about how passengers reviewed the airline. Inquire about overall rating, seat comfort, staff service, food & baverage, inflight entertainment, value for money for any airlines you are interesting in.')
+st.sidebar.markdown('The chatbot can also answer questions concerningpolicies of baggage, change reservation, refund, and delayed/canceled flights. ')
 
 # 3.4. Create the chat engine
 # condense question mode because it always queries the knowledge base when generating a response. 

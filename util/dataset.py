@@ -41,6 +41,8 @@ def load_policies(
 
 def load_trend_data():
     df = pd.read_csv('data/clean/airline_trend.csv')
+    df['Year'] = df['Year'].astype('str')
+
     return df
 
 def load_rate_data():
