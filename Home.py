@@ -4,6 +4,7 @@ import sys
 from enum import Enum
 
 import openai
+import altair as alt
 import streamlit as st
 from dotenv import load_dotenv
 from llama_index.agent.openai import OpenAIAgent
@@ -26,7 +27,7 @@ from pydantic import Field
 from slugify import slugify
 
 from config import load_graph_config
-from util.dataset import load_policies, load_trend_data
+from util.dataset import load_policies, load_trend_data, load_rate_data
 from util.graph import load_graph_index_from_config
 from util.multi_tenant import extract_tenants
 from util.vector import load_vector_index
@@ -40,14 +41,18 @@ logging.basicConfig(
     level=logging.DEBUG,
 )
 
+# load datasets:
+trend_df = load_trend_data()
+rate_df = load_rate_data()
+
 
 class AspectEnum(Enum):
-    SEAT_COMFORT = 'seat comfort'
-    STAFF_SERVICE = 'staff service'
-    FOOD_BEVERAGE = 'food and beverage'
-    INFLIGHT_ENTERTAINMENT = 'inflight entertainment'
-    VALUE_FOR_MONEY = 'value for money'
-    OVERALL_RATINGS = 'overall ratings'   
+    SEAT_COMFORT = 'Seat Comfort'
+    STAFF_SERVICE = 'Staff Service'
+    FOOD_BEVERAGE = 'Food & Beverages'
+    INFLIGHT_ENTERTAINMENT = 'Inflight Entertainment'
+    VALUE_FOR_MONEY = 'Value For Money'
+    OVERALL_RATINGS = 'Overall Rating'    
 
 
 @st.cache_resource
@@ -70,15 +75,6 @@ def load_tenants():
     return airlines
 
 
-def plot_airline_trends(airline: str):
-    """Useful for understanding consumer sentiment on airlines over time."""
-    ## How to let plot a certain aspect?
-    trend_df = load_trend_data()
-    chart_data = trend_df[trend_df['Airline'] == airline]
-    st.line_chart(chart_data, x = 'Year', y = 'Overall Rating')
-    return "Plot {airline} trends!!!"
-
-
 @st.cache_resource
 def load_chat_memory(user: str):
     # add memory:
@@ -91,13 +87,62 @@ def load_chat_memory(user: str):
     return memory
 
 
+# 6 funcs
+def plot_airline_trends(airline: str = None, aspect: AspectEnum = None):
+    """Useful for understanding consumer sentiment on airlines over time."""
+    ## How to let plot a certain aspect?
+    if airline:
+        chart_data = trend_df[trend_df['Airline'] == airline]
+    else:
+        chart_data = trend_df
+    st.line_chart(chart_data, x = 'Year', y = aspect)
+
+
+def plot_airline_rate(airline: str, aspect: AspectEnum = None):
+    """Useful for understanding consumer sentiment on airlines over time."""
+    ## How to let plot a certain aspect?
+    if aspect:
+        chart_data = rate_df[(rate_df['Airline'] == airline) & (trend_df['Rate Type'] == aspect)]
+    else:
+        chart_data = rate_df[rate_df['Airline'] == airline]
+    
+    color_scale = alt.Scale(
+    domain=[
+        "Poor",
+        "Not good",
+        "Neutral",
+        "Good" ,
+        "Very Good" 
+    ],
+    range=["#c30d24", "#f3a583", "#cccccc", "#94c6da", "#1770ab"],
+)
+    c = (alt.Chart(chart_data)
+        .mark_bar()
+        .encode(
+            x=alt.X("percentage_start:Q"),
+            x2="percentage_end:Q",
+            y=alt.Y("Category:N").axis(alt.Axis(title="Rating", offset=5, ticks=False, minExtent=60, domain=False)),
+            color=alt.Color("Rating Type:N").title("Rating").scale(color_scale)
+            )
+        .properties(
+            width=600,
+            height=400,
+            title='Passenger Rating the Airline'
+))
+    
+    st.altair_chart(c, use_container_width=True)
+
+
 def inquire_about_airline_sentiment(airline: str):
     """Useful for answering questions about consumer sentiment toward a 
     specific airline. Includes ratings for all of the airline's aspects
     such as seat comfort, staff service, food and beverage, inflight entertainment, 
     value for money, and overall ratings. 
     """
-    st.write(f"describe_airlines_aspect: {airline=}")
+    # st.write(f"describe_airlines_aspect: {airline=}")
+    # The chart displayed here: 1 airline multiple aspects
+    plot_airline_rate(airline)
+    # The text displayed here
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -107,7 +152,9 @@ def inquire_about_airline_sentiment(airline: str):
                     value=airline,
                 )
             ]
-        )
+        ),
+        hybrid_top_k=10,
+        similarity_top_k=10,
     )
     response = query_engine.query(
         f"Tell me about {airline}. Be as thorough as possible."
@@ -117,7 +164,11 @@ def inquire_about_airline_sentiment(airline: str):
 
 def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
     """Useful for understanding consumer sentiment on airlines over time."""
-    st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
+    # plot = st.markdown(f"{airline=} {aspect=}")
+    # The chart displayed here: 1 airline 1 aspect trend
+    plot_airline_trends(airline, aspect)
+    # The text displayed here
+    # st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -127,7 +178,9 @@ def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
                     value=airline,
                 )
             ]
-        )
+        ),
+        hybrid_top_k=10,
+        similarity_top_k=10,
     )
     response = query_engine.query(
         f"Tell me about {aspect} on {airline}. Be as thorough as possible."
@@ -151,6 +204,9 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     chart_airlines = []
     for node in response.source_nodes:
         chart_airlines.append(node.metadata["Airline"])
+    chart_airlines = list(set(chart_airlines))
+    # The chart displayed here: multiple airline 1 aspect rate
+    plot_airline_rate(chart_airlines[0], aspect)
     return response
 
 
@@ -159,7 +215,7 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
     airline about a specific aspect, such as seat comfort, staff service,
     food and beverage, inflight entertainment, value for money, and overall ratings. 
     """
-    st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
+    # st.write(f"inquire_about_aspect_on_airline: {airline=} {aspect=}")
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -169,11 +225,15 @@ def inquire_about_aspect_on_airline(airline: str, aspect: AspectEnum):
                     value=airline,
                 )
             ]
-        )
+        ),
+        hybrid_top_k=10,
+        similarity_top_k=10,
     )
     response = query_engine.query(
-        f"Tell me about {aspect} on {airline}. Be as thorough as possible."
+        f"Tell me about {aspect} on {airline}. Describe only this aspect and be as thorough as possible."
     )
+    # The chart displayed here: 1 airline 1 aspect rate
+    plot_airline_rate(airline, aspect)
     return response
 
 
@@ -220,6 +280,8 @@ def load_agent():
             QueryEngineTool(
                 query_engine=load_graph_index(airline_key).as_query_engine(
                     response_mode="tree_summarize",
+                    # hybrid_top_k=10,
+                    similarity_top_k=5,
                 ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_policies",
@@ -244,8 +306,10 @@ def load_agent():
                                 key="Airline",
                                 value=airline,
                             )
-                        ]
-                    )
+                        ],
+                    ),
+                    hybrid_top_k=10,
+                    similarity_top_k=10,
                 ),
                 metadata=ToolMetadata(
                     name=f"{airline_key}_reviews",
