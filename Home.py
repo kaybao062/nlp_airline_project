@@ -132,13 +132,11 @@ def plot_airline_rate(airline: str, aspect: AspectEnum = None):
     st.altair_chart(c, use_container_width=True)
 
 
-def inquire_about_airline_sentiment(airline: str):
-    """Useful for answering questions about consumer sentiment toward a 
-    specific airline. Includes ratings for all of the airline's aspects
-    such as seat comfort, staff service, food and beverage, inflight entertainment, 
-    value for money, and overall ratings. 
+def inquire_about_airline(airline: str):
+    """Useful for answering questions about an airline. Particularly helpful
+    for summarizing consumer sentiment toward a specific airline.
     """
-    st.write(f"describe_airlines_aspect: {airline=}")
+    st.write(f"inquire_about_airline: {airline=}")
     # The chart displayed here: 1 airline multiple aspects
     plot_airline_rate(airline)
     # The text displayed here
@@ -167,7 +165,7 @@ def describe_airline_sentiment_over_time(airline: str, aspect: AspectEnum):
     # The chart displayed here: 1 airline 1 aspect trend
     plot_airline_trends(airline, aspect)
     # The text displayed here
-    st.write(f"describe_airline_by_aspect_over_time: {airline=} {aspect=}")
+    st.write(f"describe_airline_sentiment_over_time: {airline=} {aspect=}")
     review_index = load_review_index()
     query_engine = review_index.as_query_engine(
         filter=MetadataFilters(
@@ -192,7 +190,7 @@ def compare_airlines_by_aspect(aspect: AspectEnum):
     specific aspect, such as seat comfort, staff service, food and beverage,
     inflight entertainment, value for money, and overall ratings. 
     """
-    st.write(f"compaire_airlines_by_aspect: {aspect=}")
+    st.write(f"compare_airlines_by_aspect: {aspect=}")
     review_index = load_review_index()
     response = review_index.as_query_engine(
         hybrid_top_k=10,
@@ -321,7 +319,7 @@ def load_agent():
         ]
 
     tools += [
-        FunctionTool.from_defaults(inquire_about_airline_sentiment),
+        FunctionTool.from_defaults(inquire_about_airline),
         FunctionTool.from_defaults(inquire_about_aspect_on_airline),
         FunctionTool.from_defaults(compare_airlines_by_aspect),
         FunctionTool.from_defaults(describe_airline_sentiment_over_time),
