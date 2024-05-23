@@ -1,6 +1,7 @@
 import logging
 import sys
 import os
+import pinecone
 
 from dotenv import load_dotenv
 from pinecone import (
