@@ -1,4 +1,4 @@
-%pip install pinecone-client
+pip3 install pinecone-client
 import logging
 import sys
 import os
